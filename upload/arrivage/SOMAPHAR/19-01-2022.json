@@ -1,0 +1,5534 @@
+[
+    {
+        "designation": "A 313 50000U CAPS B/30",
+        "date_expiration": "5/31/22",
+        "prix": 12500,
+        "tva": "0"
+    },
+    {
+        "designation": "ABLEPT 300MG GELU B/30",
+        "date_expiration": "9/30/24",
+        "prix": 22900,
+        "tva": "0"
+    },
+    {
+        "designation": "ABUFENE 400MG COMP B/30",
+        "date_expiration": "2/29/24",
+        "prix": 60000,
+        "tva": "0"
+    },
+    {
+        "designation": "ACCU CHEK ACTIVE BDLET /25",
+        "date_expiration": "3/31/23",
+        "prix": 40000,
+        "tva": "7"
+    },
+    {
+        "designation": "ACCU CHEK ACTIVE KIT MG/DL /1",
+        "date_expiration": "11/30/22",
+        "prix": 95000,
+        "tva": "0"
+    },
+    {
+        "designation": "ACCU CHEK SOFTCLIX KIT AUTOPIQ",
+        "date_expiration": "11/30/24",
+        "prix": 33115,
+        "tva": "0"
+    },
+    {
+        "designation": "ACIVIR 5% CR T/5G",
+        "date_expiration": "12/31/23",
+        "prix": 13900,
+        "tva": "0"
+    },
+    {
+        "designation": "ACTICARBINE CP B/42",
+        "date_expiration": "3/31/26",
+        "prix": 7985,
+        "tva": "0"
+    },
+    {
+        "designation": "ACTINAC 100MG CP B/10",
+        "date_expiration": "3/31/24",
+        "prix": 5300,
+        "tva": "0"
+    },
+    {
+        "designation": "ACTISOUFRE AMP BUV/NAS B/30",
+        "date_expiration": "10/31/23",
+        "prix": 44800,
+        "tva": "0"
+    },
+    {
+        "designation": "ACTONEL 35MG COMP B/4.",
+        "date_expiration": "8/31/24",
+        "prix": 89870,
+        "tva": "0"
+    },
+    {
+        "designation": "ACUPAN SOL INJ 2ML B/5 AFR",
+        "date_expiration": "5/31/24",
+        "prix": 17000,
+        "tva": "0"
+    },
+    {
+        "designation": "ACYCLOVIR DENK 200MG COMP B/25",
+        "date_expiration": "2/29/24",
+        "prix": 48805,
+        "tva": "0"
+    },
+    {
+        "designation": "ACYCLOVIR DENK CREME T/7G",
+        "date_expiration": "7/31/23",
+        "prix": 21760,
+        "tva": "0"
+    },
+    {
+        "designation": "AERIUS 5MG COMP B/15",
+        "date_expiration": "8/31/22",
+        "prix": 29500,
+        "tva": "0"
+    },
+    {
+        "designation": "AERIUS 5MG COMP B/7",
+        "date_expiration": "2/28/23",
+        "prix": 15100,
+        "tva": "0"
+    },
+    {
+        "designation": "AERIUS SP SSUC FL/60ML",
+        "date_expiration": "3/31/23",
+        "prix": 18900,
+        "tva": "0"
+    },
+    {
+        "designation": "AIG EPICRAN MAEXI 21G /100",
+        "date_expiration": "0/00/00",
+        "prix": 24200,
+        "tva": "0"
+    },
+    {
+        "designation": "ALCOOL A 70 500ML",
+        "date_expiration": "0/00/00",
+        "prix": 8600,
+        "tva": "0"
+    },
+    {
+        "designation": "ALCOOL A 90 500ML",
+        "date_expiration": "0/00/00",
+        "prix": 9200,
+        "tva": "0"
+    },
+    {
+        "designation": "ALCOOL IODE SALIC IMRA 125ML",
+        "date_expiration": "10/31/23",
+        "prix": 3400,
+        "tva": "0"
+    },
+    {
+        "designation": "ALERID CIPLA 10MG CP B/10X10",
+        "date_expiration": "8/31/23",
+        "prix": 27150,
+        "tva": "0"
+    },
+    {
+        "designation": "ALLERZINE SIR F/100ML",
+        "date_expiration": "2/29/24",
+        "prix": 7400,
+        "tva": "0"
+    },
+    {
+        "designation": "ALODONT SOL BBOUCH VERRE 200ML",
+        "date_expiration": "5/31/23",
+        "prix": 38900,
+        "tva": "0"
+    },
+    {
+        "designation": "ALOVERA CR T/50G",
+        "date_expiration": "10/31/22",
+        "prix": 10700,
+        "tva": "7"
+    },
+    {
+        "designation": "ALPHAGAN 0,2% CY FL/5ML",
+        "date_expiration": "9/30/23",
+        "prix": 33400,
+        "tva": "0"
+    },
+    {
+        "designation": "ALR SPR PROTEC RHINI ALL 800MG",
+        "date_expiration": "12/31/22",
+        "prix": 36150,
+        "tva": "7"
+    },
+    {
+        "designation": "ALVITYL APPETIT SP FL/100ML",
+        "date_expiration": "3/31/23",
+        "prix": 20900,
+        "tva": "7"
+    },
+    {
+        "designation": "ALVITYL CP EFF T/10",
+        "date_expiration": "5/31/23",
+        "prix": 12700,
+        "tva": "7"
+    },
+    {
+        "designation": "ALVITYL DEFENSES SP 150ML",
+        "date_expiration": "7/31/22",
+        "prix": 35000,
+        "tva": "7"
+    },
+    {
+        "designation": "ALVITYL EFF B/2X15",
+        "date_expiration": "8/31/23",
+        "prix": 20500,
+        "tva": "7"
+    },
+    {
+        "designation": "ALVITYL MAGN VIT B6 B/45",
+        "date_expiration": "4/30/24",
+        "prix": 13170,
+        "tva": "7"
+    },
+    {
+        "designation": "ALVITYL PLUS CP B/40",
+        "date_expiration": "12/31/22",
+        "prix": 16850,
+        "tva": "0"
+    },
+    {
+        "designation": "ALVITYL SP AER NF FL/150ML",
+        "date_expiration": "10/31/22",
+        "prix": 17450,
+        "tva": "0"
+    },
+    {
+        "designation": "ALVITYL SP F/50ML",
+        "date_expiration": "1/31/23",
+        "prix": 15900,
+        "tva": "7"
+    },
+    {
+        "designation": "ALVITYL TONUS CP B/20",
+        "date_expiration": "7/31/23",
+        "prix": 19000,
+        "tva": "0"
+    },
+    {
+        "designation": "ALVITYL TONUS CP EFF B/10",
+        "date_expiration": "8/31/23",
+        "prix": 13800,
+        "tva": "7"
+    },
+    {
+        "designation": "AMADAY 10MG CP B/30",
+        "date_expiration": "12/31/24",
+        "prix": 33100,
+        "tva": "0"
+    },
+    {
+        "designation": "AMADAY 5MG CP B/30",
+        "date_expiration": "12/31/24",
+        "prix": 22100,
+        "tva": "0"
+    },
+    {
+        "designation": "AMADAY PL 5/4MG CP B/30",
+        "date_expiration": "4/30/22",
+        "prix": 36000,
+        "tva": "0"
+    },
+    {
+        "designation": "AMAREL 1MG COMP B/30",
+        "date_expiration": "7/31/23",
+        "prix": 19620,
+        "tva": "0"
+    },
+    {
+        "designation": "AMAREL 2MG COMP B/30",
+        "date_expiration": "10/31/23",
+        "prix": 29200,
+        "tva": "0"
+    },
+    {
+        "designation": "AMAREL 3MG COMP B/30",
+        "date_expiration": "4/30/23",
+        "prix": 38450,
+        "tva": "0"
+    },
+    {
+        "designation": "AMAREL 4MG COMP B/30",
+        "date_expiration": "10/31/23",
+        "prix": 62100,
+        "tva": "0"
+    },
+    {
+        "designation": "AMARYL M 2MG CP B/30",
+        "date_expiration": "7/31/23",
+        "prix": 37500,
+        "tva": "0"
+    },
+    {
+        "designation": "AMIKACINE MYL 500MG INJ F/20",
+        "date_expiration": "7/31/23",
+        "prix": 400000,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLO DENK 10MG CP B/50",
+        "date_expiration": "9/30/22",
+        "prix": 43500,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLO DENK 5MG CP B/50",
+        "date_expiration": "3/31/23",
+        "prix": 30500,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLODIPINE BGR 10MG GEL B/30",
+        "date_expiration": "4/30/24",
+        "prix": 22447.358,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLONG 10MG CP B/30",
+        "date_expiration": "2/29/24",
+        "prix": 19680,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLONG 5MG CP B/30",
+        "date_expiration": "6/30/24",
+        "prix": 13580,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLOPRESS 5MG CP B/100",
+        "date_expiration": "7/31/24",
+        "prix": 10345,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLOR 10MG GELU B/30",
+        "date_expiration": "4/30/25",
+        "prix": 33900,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLOR 5MG GELU B/30",
+        "date_expiration": "1/31/25",
+        "prix": 32300,
+        "tva": "0"
+    },
+    {
+        "designation": "AMLOZAAR CP B/30",
+        "date_expiration": "10/31/22",
+        "prix": 27950,
+        "tva": "0"
+    },
+    {
+        "designation": "AMOXI DENK 1000 CP BL/10",
+        "date_expiration": "9/30/23",
+        "prix": 16700,
+        "tva": "0"
+    },
+    {
+        "designation": "AMOXICLAV DENK 1000/125 SACH/8",
+        "date_expiration": "3/31/24",
+        "prix": 22000,
+        "tva": "0"
+    },
+    {
+        "designation": "AMOXICLAV DENK 500/62,5 CP/2X8",
+        "date_expiration": "6/30/22",
+        "prix": 20500,
+        "tva": "0"
+    },
+    {
+        "designation": "AMVA DENK 10/160MG BL/2X14",
+        "date_expiration": "10/31/23",
+        "prix": 74000,
+        "tva": "0"
+    },
+    {
+        "designation": "AMVA DENK 5/160MG BL/2X14",
+        "date_expiration": "11/30/23",
+        "prix": 68000,
+        "tva": "0"
+    },
+    {
+        "designation": "ANAPORE PANS 5MX2,5CM 135300",
+        "date_expiration": "0/00/00",
+        "prix": 2000,
+        "tva": "0"
+    },
+    {
+        "designation": "ANASTROZOLE DENK 1MG B/30",
+        "date_expiration": "7/31/22",
+        "prix": 175000,
+        "tva": "0"
+    },
+    {
+        "designation": "ANDROCUR 50MG COMP B/20",
+        "date_expiration": "2/29/24",
+        "prix": 50000,
+        "tva": "0"
+    },
+    {
+        "designation": "ANDROTARDYL 250MG INJ B/1 DT",
+        "date_expiration": "11/30/25",
+        "prix": 38600,
+        "tva": "0"
+    },
+    {
+        "designation": "ANGIZAAR 100MG CP B/30",
+        "date_expiration": "5/31/23",
+        "prix": 24250,
+        "tva": "0"
+    },
+    {
+        "designation": "ANGIZAAR 50 MG CP B/30",
+        "date_expiration": "7/31/24",
+        "prix": 22700,
+        "tva": "0"
+    },
+    {
+        "designation": "ANGIZAAR H CP B/30",
+        "date_expiration": "8/31/24",
+        "prix": 23900,
+        "tva": "0"
+    },
+    {
+        "designation": "ANTADYS 100MG CP B/15",
+        "date_expiration": "11/30/23",
+        "prix": 13800,
+        "tva": "0"
+    },
+    {
+        "designation": "ANTARENE 5% GEL T/50G",
+        "date_expiration": "6/30/24",
+        "prix": 9900,
+        "tva": "0"
+    },
+    {
+        "designation": "ANTARENE COD 200/30MG CP B/20",
+        "date_expiration": "6/30/24",
+        "prix": 15300,
+        "tva": "0"
+    },
+    {
+        "designation": "ANTARENE COD 400/60MG CP B/10",
+        "date_expiration": "6/30/24",
+        "prix": 15400,
+        "tva": "0"
+    },
+    {
+        "designation": "APROVASC 300-10MG CP B/28",
+        "date_expiration": "2/29/24",
+        "prix": 106000,
+        "tva": "0"
+    },
+    {
+        "designation": "APROVEL 300MG RM CP B/28",
+        "date_expiration": "9/30/23",
+        "prix": 92200,
+        "tva": "0"
+    },
+    {
+        "designation": "ARBITEL 40MG CP B/30",
+        "date_expiration": "6/30/23",
+        "prix": 27150,
+        "tva": "0"
+    },
+    {
+        "designation": "ARBITEL 80MG CP B/30",
+        "date_expiration": "6/30/22",
+        "prix": 39250,
+        "tva": "0"
+    },
+    {
+        "designation": "ARBITEL H 40MG/12,5MG B/30",
+        "date_expiration": "9/30/22",
+        "prix": 39900,
+        "tva": "0"
+    },
+    {
+        "designation": "ARCALION 200 CP B/20 MD",
+        "date_expiration": "9/30/22",
+        "prix": 36400,
+        "tva": "0"
+    },
+    {
+        "designation": "ARI HUILE DE MASSAGE 100ML",
+        "date_expiration": "7/31/22",
+        "prix": 48500,
+        "tva": "7"
+    },
+    {
+        "designation": "ARI ROLL ON EFFET FROID 50ML",
+        "date_expiration": "11/30/22",
+        "prix": 24850,
+        "tva": "7"
+    },
+    {
+        "designation": "ARPHOS AMP BUV 10ML B/20",
+        "date_expiration": "10/31/23",
+        "prix": 22500,
+        "tva": "0"
+    },
+    {
+        "designation": "ART 50 GELU B/30",
+        "date_expiration": "9/30/22",
+        "prix": 86500,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTEFAN 20/120 CP ETUI B/24",
+        "date_expiration": "4/30/23",
+        "prix": 1400,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTEFAN 20/120MG CP DISP/6",
+        "date_expiration": "10/31/22",
+        "prix": 5259,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTEFAN 20/120MG CP DISP/6 MD",
+        "date_expiration": "4/30/23",
+        "prix": 700,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTEFAN 80/480 CP ETUI B/6",
+        "date_expiration": "7/31/23",
+        "prix": 15480,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTEMETHER LUMEFA 20/120 6X2.",
+        "date_expiration": "4/30/23",
+        "prix": 895,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTEMETHER LUMEFA 20/120 6X3.",
+        "date_expiration": "4/30/23",
+        "prix": 1150,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTESUN 120MG S.INJ B/1",
+        "date_expiration": "6/30/23",
+        "prix": 14500,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTESUN 30MG IV S.INJ B/1",
+        "date_expiration": "2/29/24",
+        "prix": 4900,
+        "tva": "0"
+    },
+    {
+        "designation": "ARTESUN 60MG 5% 1ML INJ F/1",
+        "date_expiration": "3/31/24",
+        "prix": 8500,
+        "tva": "0"
+    },
+    {
+        "designation": "ASPEGIC 1000 SACH B/20",
+        "date_expiration": "6/30/23",
+        "prix": 12800,
+        "tva": "0"
+    },
+    {
+        "designation": "ASPEGIC 500 SACH B/20",
+        "date_expiration": "10/31/23",
+        "prix": 8700,
+        "tva": "0"
+    },
+    {
+        "designation": "ASPIRINE UPSA VIT C CP EFF/20",
+        "date_expiration": "10/31/22",
+        "prix": 5750,
+        "tva": "0"
+    },
+    {
+        "designation": "ASTHALIN SUSP INH /200D",
+        "date_expiration": "11/30/22",
+        "prix": 10790,
+        "tva": "0"
+    },
+    {
+        "designation": "ATACAND 16MG COMP B/30",
+        "date_expiration": "4/30/23",
+        "prix": 104000,
+        "tva": "0"
+    },
+    {
+        "designation": "ATACAND 8MG COMP B/30",
+        "date_expiration": "8/31/23",
+        "prix": 96850,
+        "tva": "0"
+    },
+    {
+        "designation": "ATARAX SP FL/200ML",
+        "date_expiration": "12/31/22",
+        "prix": 10643,
+        "tva": "0"
+    },
+    {
+        "designation": "ATENOLOL DENK 50 COMP B/100",
+        "date_expiration": "10/31/22",
+        "prix": 29500,
+        "tva": "0"
+    },
+    {
+        "designation": "ATORFIT 10MG CP B/30",
+        "date_expiration": "7/31/23",
+        "prix": 21900,
+        "tva": "0"
+    },
+    {
+        "designation": "ATORFIT 20MG CP B/30",
+        "date_expiration": "2/29/24",
+        "prix": 36400,
+        "tva": "0"
+    },
+    {
+        "designation": "ATROPINE SULF LVS 0,5MG/MLA/10",
+        "date_expiration": "5/31/23",
+        "prix": 24900,
+        "tva": "0"
+    },
+    {
+        "designation": "ATROVENT 0,25MG/2ML ENF B/10",
+        "date_expiration": "4/30/22",
+        "prix": 19900,
+        "tva": "0"
+    },
+    {
+        "designation": "AUGMENTIN 500MG/62,5MG COMP/16",
+        "date_expiration": "10/31/22",
+        "prix": 22250,
+        "tva": "0"
+    },
+    {
+        "designation": "AURICULARUM PDR+SOLV AURIC B/1",
+        "date_expiration": "5/31/23",
+        "prix": 31000,
+        "tva": "0"
+    },
+    {
+        "designation": "AVAMYS 27,5MG SUSP NAS 120D MV",
+        "date_expiration": "2/29/24",
+        "prix": 13100,
+        "tva": "0"
+    },
+    {
+        "designation": "AVAS 10MG CP B/30",
+        "date_expiration": "6/30/23",
+        "prix": 19700,
+        "tva": "0"
+    },
+    {
+        "designation": "AVAS 20MG CP B/30",
+        "date_expiration": "5/31/23",
+        "prix": 35800,
+        "tva": "0"
+    },
+    {
+        "designation": "AVAS 40MG CP B/30",
+        "date_expiration": "2/29/24",
+        "prix": 38700,
+        "tva": "0"
+    },
+    {
+        "designation": "AZEE 500MG CP B/3 WA",
+        "date_expiration": "8/31/23",
+        "prix": 20700,
+        "tva": "0"
+    },
+    {
+        "designation": "AZITHRO DENK 250MG CP B/6",
+        "date_expiration": "2/29/24",
+        "prix": 20860,
+        "tva": "0"
+    },
+    {
+        "designation": "BACTOCLAV 625MG CP PELL B/12",
+        "date_expiration": "7/31/22",
+        "prix": 15700,
+        "tva": "0"
+    },
+    {
+        "designation": "BACTODERME CR T/15",
+        "date_expiration": "3/31/24",
+        "prix": 2900,
+        "tva": "0"
+    },
+    {
+        "designation": "BANDE GAZE EM 3MX10 /36 135183",
+        "date_expiration": "1/31/25",
+        "prix": 21000,
+        "tva": "0"
+    },
+    {
+        "designation": "BANDE GAZE EM 3MX7CM/48 135182",
+        "date_expiration": "0/00/00",
+        "prix": 24600,
+        "tva": "7"
+    },
+    {
+        "designation": "BANDE GAZE LABELL 3MX7CM P/10",
+        "date_expiration": "11/30/24",
+        "prix": 10400,
+        "tva": "0"
+    },
+    {
+        "designation": "BANDE PLATREE PHD 20CMX2M",
+        "date_expiration": "2/29/24",
+        "prix": 6900,
+        "tva": "0"
+    },
+    {
+        "designation": "BANDE PLATREE PHD 20CMX3M",
+        "date_expiration": "8/31/23",
+        "prix": 7100,
+        "tva": "0"
+    },
+    {
+        "designation": "BASSIN LIT POLYPROPYLENE BLC",
+        "date_expiration": "0/00/00",
+        "prix": 50000,
+        "tva": "0"
+    },
+    {
+        "designation": "BAUME ARNICA POT 20G SC203",
+        "date_expiration": "8/31/22",
+        "prix": 7000,
+        "tva": "0"
+    },
+    {
+        "designation": "BAUME HELICHRYSE POT 20G SC228",
+        "date_expiration": "0/00/00",
+        "prix": 7000,
+        "tva": "7"
+    },
+    {
+        "designation": "BAUME KATRAFAY POT 20G SC230",
+        "date_expiration": "0/00/00",
+        "prix": 7600,
+        "tva": "7"
+    },
+    {
+        "designation": "BAUME TIGRA POT 10G",
+        "date_expiration": "0/00/00",
+        "prix": 2100,
+        "tva": "0"
+    },
+    {
+        "designation": "BB IMMUNO 0 A 12 200ML",
+        "date_expiration": "2/28/25",
+        "prix": 34100,
+        "tva": "7"
+    },
+    {
+        "designation": "BB VITEMIX DE 0 A 12 200ML",
+        "date_expiration": "9/30/22",
+        "prix": 24500,
+        "tva": "7"
+    },
+    {
+        "designation": "BECONASE 50MCG NAS PULV/200DOS",
+        "date_expiration": "11/30/22",
+        "prix": 31350,
+        "tva": "0"
+    },
+    {
+        "designation": "BECOTIDE 250MCG BUCC. AER/200D",
+        "date_expiration": "12/31/22",
+        "prix": 126500,
+        "tva": "0"
+    },
+    {
+        "designation": "BECOZYME AMP INJ 2ML B/12",
+        "date_expiration": "6/30/22",
+        "prix": 99000,
+        "tva": "0"
+    },
+    {
+        "designation": "BEDELIX PDRE ORALE SACH B/30",
+        "date_expiration": "5/31/24",
+        "prix": 21800,
+        "tva": "0"
+    },
+    {
+        "designation": "BENDEX 400MG CP B/20.",
+        "date_expiration": "12/31/23",
+        "prix": 23460,
+        "tva": "0"
+    },
+    {
+        "designation": "BENDEX SOL BUV FL/10ML",
+        "date_expiration": "12/31/23",
+        "prix": 2950,
+        "tva": "0"
+    },
+    {
+        "designation": "BEPANTHEN 5% POM T/100G",
+        "date_expiration": "4/30/24",
+        "prix": 52000,
+        "tva": "0"
+    },
+    {
+        "designation": "BEPANTHEN 5% POM T/30G",
+        "date_expiration": "1/31/24",
+        "prix": 30000,
+        "tva": "0"
+    },
+    {
+        "designation": "BEPANTHENE 250/ML INJ 2ML B/6",
+        "date_expiration": "11/30/23",
+        "prix": 33500,
+        "tva": "0"
+    },
+    {
+        "designation": "BETADINE 10% B BOUCHE125ML VER",
+        "date_expiration": "7/31/24",
+        "prix": 7600,
+        "tva": "0"
+    },
+    {
+        "designation": "BETADINE 10% DERMIQ 125ML JAUN",
+        "date_expiration": "5/31/23",
+        "prix": 7600,
+        "tva": "0"
+    },
+    {
+        "designation": "BETADINE 10% DERMIQ 500ML JAUN",
+        "date_expiration": "4/30/23",
+        "prix": 25500,
+        "tva": "0"
+    },
+    {
+        "designation": "BETADINE 10% SOL VAG125ML BLEU",
+        "date_expiration": "3/31/24",
+        "prix": 6700,
+        "tva": "0"
+    },
+    {
+        "designation": "BETADINE SCRUB FL/125ML ROUGE",
+        "date_expiration": "1/31/24",
+        "prix": 7100,
+        "tva": "0"
+    },
+    {
+        "designation": "BETADINE TULL 10% COMPRES B/10",
+        "date_expiration": "6/30/26",
+        "prix": 13500,
+        "tva": "0"
+    },
+    {
+        "designation": "BETASERC 24MG COMP B/60",
+        "date_expiration": "4/30/24",
+        "prix": 43150,
+        "tva": "0"
+    },
+    {
+        "designation": "BEVITINE 100MG AMP INJ 2ML B/5",
+        "date_expiration": "11/30/23",
+        "prix": 11000,
+        "tva": "0"
+    },
+    {
+        "designation": "BEVITINE 250MG CP B/20",
+        "date_expiration": "10/31/23",
+        "prix": 11500,
+        "tva": "0"
+    },
+    {
+        "designation": "BIAFINE EMULSION HYP HYD /186G",
+        "date_expiration": "10/31/23",
+        "prix": 22400,
+        "tva": "0"
+    },
+    {
+        "designation": "BIAFINE EMULSION HYP HYD T/93G",
+        "date_expiration": "3/31/24",
+        "prix": 9950,
+        "tva": "0"
+    },
+    {
+        "designation": "BIB GRAVIS VER DECOR 3C 250ML",
+        "date_expiration": "0/00/00",
+        "prix": 20000,
+        "tva": "7"
+    },
+    {
+        "designation": "BILAXTEN 20MG CP B/10",
+        "date_expiration": "8/31/25",
+        "prix": 19600,
+        "tva": "0"
+    },
+    {
+        "designation": "BILAXTEN 20MG CP B/20",
+        "date_expiration": "10/31/25",
+        "prix": 33300,
+        "tva": "0"
+    },
+    {
+        "designation": "BIOFAR CALCIUM VITD3 CP EFF/20",
+        "date_expiration": "12/31/23",
+        "prix": 14870,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR CALCIUM+MAG CP EFF B/20",
+        "date_expiration": "4/30/24",
+        "prix": 15630,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR CHROM COMPLEX CP EFF/20",
+        "date_expiration": "3/31/24",
+        "prix": 18000,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR COMPLEX VIT B EFF T/20",
+        "date_expiration": "5/31/24",
+        "prix": 15200,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR FER+AC FOLIQ CP EFF/20",
+        "date_expiration": "3/31/24",
+        "prix": 14945,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR MAGNES+VIT B6 CP B/20",
+        "date_expiration": "3/31/24",
+        "prix": 15095,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR MULTIVIT CP EFF T/20",
+        "date_expiration": "5/31/24",
+        "prix": 15000,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR MULTIVIT KIDS CP EFF/20",
+        "date_expiration": "12/31/23",
+        "prix": 15300,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR POTA+MAG CP EFF T/20",
+        "date_expiration": "12/31/23",
+        "prix": 15600,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOFAR VIT C ACER 500MG EFF/20",
+        "date_expiration": "12/31/23",
+        "prix": 15560,
+        "tva": "7"
+    },
+    {
+        "designation": "BIOTINE BAY 5MG CP PLQ/60",
+        "date_expiration": "3/31/26",
+        "prix": 122000,
+        "tva": "0"
+    },
+    {
+        "designation": "BIOTINE BAY AMP INJ IM 1ML B/6",
+        "date_expiration": "9/30/23",
+        "prix": 31800,
+        "tva": "0"
+    },
+    {
+        "designation": "BIPRETERAX 10MG/2,5MG B/30 MD",
+        "date_expiration": "2/29/24",
+        "prix": 83700,
+        "tva": "0"
+    },
+    {
+        "designation": "BIPRETERAX 5MG/1,25MG B/30 MD",
+        "date_expiration": "10/31/23",
+        "prix": 42100,
+        "tva": "0"
+    },
+    {
+        "designation": "BIRODOGYL 1,5MUI CP B/10",
+        "date_expiration": "11/30/23",
+        "prix": 32900,
+        "tva": "0"
+    },
+    {
+        "designation": "BITILDIEM LP 120MG CP B/28",
+        "date_expiration": "5/31/23",
+        "prix": 25170,
+        "tva": "0"
+    },
+    {
+        "designation": "BITILDIEM LP 90MG CP B/28",
+        "date_expiration": "5/31/23",
+        "prix": 23550,
+        "tva": "0"
+    },
+    {
+        "designation": "BOITE PETITE CHIRURGIE 13 ELEM",
+        "date_expiration": "0/00/00",
+        "prix": 225700,
+        "tva": "0"
+    },
+    {
+        "designation": "BOLINAN 2G COMP B/15",
+        "date_expiration": "11/30/22",
+        "prix": 22000,
+        "tva": "0"
+    },
+    {
+        "designation": "BOLINAN 2G COMP B/40",
+        "date_expiration": "5/31/24",
+        "prix": 54000,
+        "tva": "0"
+    },
+    {
+        "designation": "BRAIN ACTIVE DENK+DHA B/30",
+        "date_expiration": "4/30/23",
+        "prix": 72000,
+        "tva": "7"
+    },
+    {
+        "designation": "BRONCHODERMINE POM T/60G",
+        "date_expiration": "5/31/23",
+        "prix": 21000,
+        "tva": "0"
+    },
+    {
+        "designation": "BUTO-ASMA AER 0.2% FL/200DOSES",
+        "date_expiration": "6/30/23",
+        "prix": 15500,
+        "tva": "0"
+    },
+    {
+        "designation": "CA C 1000 COMP EFF T/10",
+        "date_expiration": "9/30/22",
+        "prix": 11530,
+        "tva": "0"
+    },
+    {
+        "designation": "CACIT D3 1000/880UI SACH B/30",
+        "date_expiration": "6/30/24",
+        "prix": 31900,
+        "tva": "0"
+    },
+    {
+        "designation": "CAISSE ISOTHERME 10L BE1166A",
+        "date_expiration": "0/00/00",
+        "prix": 107240,
+        "tva": "7"
+    },
+    {
+        "designation": "CAISSE ISOTHERME 2L BE1224C",
+        "date_expiration": "0/00/00",
+        "prix": 66970,
+        "tva": "7"
+    },
+    {
+        "designation": "CALCIBRONAT 2G CP EFF B/20",
+        "date_expiration": "9/30/23",
+        "prix": 14400,
+        "tva": "0"
+    },
+    {
+        "designation": "CALCID DENK CP EFF T/20",
+        "date_expiration": "2/29/24",
+        "prix": 26800,
+        "tva": "0"
+    },
+    {
+        "designation": "CALCIUM ACTIVE DENK 500 CP/20",
+        "date_expiration": "7/31/23",
+        "prix": 16800,
+        "tva": "7"
+    },
+    {
+        "designation": "CALCIUM MASY IMRA PDR 100G",
+        "date_expiration": "5/31/23",
+        "prix": 3700,
+        "tva": "0"
+    },
+    {
+        "designation": "CALMA BB 200ML/ENF F/200ML",
+        "date_expiration": "9/30/24",
+        "prix": 34000,
+        "tva": "7"
+    },
+    {
+        "designation": "CALSOURCE 500MG CP EFF B/20",
+        "date_expiration": "12/31/23",
+        "prix": 14000,
+        "tva": "0"
+    },
+    {
+        "designation": "CAPTOPRIL DENK 25MG COMP B/20",
+        "date_expiration": "8/31/23",
+        "prix": 10080,
+        "tva": "0"
+    },
+    {
+        "designation": "CAPTOPRIL HCT DENK 50/25 BL100",
+        "date_expiration": "1/31/23",
+        "prix": 78850,
+        "tva": "0"
+    },
+    {
+        "designation": "CARBOKOF AD FL/100ML",
+        "date_expiration": "6/30/24",
+        "prix": 5500,
+        "tva": "0"
+    },
+    {
+        "designation": "CARBOKOF ENF FL/60ML",
+        "date_expiration": "10/31/22",
+        "prix": 3090,
+        "tva": "0"
+    },
+    {
+        "designation": "CARBOPHOS CHARBON CP B/40",
+        "date_expiration": "10/31/24",
+        "prix": 26400,
+        "tva": "0"
+    },
+    {
+        "designation": "CARDENSIEL 3,75MG CP B/30",
+        "date_expiration": "8/31/22",
+        "prix": 26900,
+        "tva": "0"
+    },
+    {
+        "designation": "CAROFIT CP B/30",
+        "date_expiration": "7/31/23",
+        "prix": 21500,
+        "tva": "0"
+    },
+    {
+        "designation": "CARTEOL LP 1% CY FL/3ML",
+        "date_expiration": "1/31/22",
+        "prix": 5000,
+        "tva": "0"
+    },
+    {
+        "designation": "CARTEOL LP 2% CY FL/3ML",
+        "date_expiration": "9/30/22",
+        "prix": 20600,
+        "tva": "0"
+    },
+    {
+        "designation": "CARTINEX 500 CP B/30",
+        "date_expiration": "5/31/24",
+        "prix": 43300,
+        "tva": "0"
+    },
+    {
+        "designation": "CARVEDI 25MG DENK CP B/3X10",
+        "date_expiration": "8/31/22",
+        "prix": 28000,
+        "tva": "0"
+    },
+    {
+        "designation": "CASODEX 50MG COMP B/30",
+        "date_expiration": "1/31/24",
+        "prix": 297500,
+        "tva": "0"
+    },
+    {
+        "designation": "CATAPRESSAN 0,15MG COMP B/30",
+        "date_expiration": "7/31/23",
+        "prix": 24000,
+        "tva": "0"
+    },
+    {
+        "designation": "CATHETER AVEC PORT INJ 16G/100",
+        "date_expiration": "0/00/00",
+        "prix": 93400,
+        "tva": "0"
+    },
+    {
+        "designation": "CEFIXIME BGR 200MG CP B/8",
+        "date_expiration": "1/31/23",
+        "prix": 27000,
+        "tva": "0"
+    },
+    {
+        "designation": "CEINT LOMBACR ACT G2 26 BLC T1",
+        "date_expiration": "0/00/00",
+        "prix": 238300,
+        "tva": "0"
+    },
+    {
+        "designation": "CEINT LOMBASKIN H26 NOI T1",
+        "date_expiration": "0/00/00",
+        "prix": 229400,
+        "tva": "0"
+    },
+    {
+        "designation": "CELESTENE 4MG AMP INJ B/3",
+        "date_expiration": "2/28/23",
+        "prix": 19500,
+        "tva": "0"
+    },
+    {
+        "designation": "CERULYSE SOL OTOL FL/10ML",
+        "date_expiration": "8/31/23",
+        "prix": 9350,
+        "tva": "0"
+    },
+    {
+        "designation": "CHESTON CS SP FL/60ML",
+        "date_expiration": "11/30/23",
+        "prix": 3605,
+        "tva": "0"
+    },
+    {
+        "designation": "CHEV LIGASTRAP MALLEO GRIS T5",
+        "date_expiration": "0/00/00",
+        "prix": 130800,
+        "tva": "0"
+    },
+    {
+        "designation": "CHEV MALLEOACTION 27-30CM T5",
+        "date_expiration": "0/00/00",
+        "prix": 35900,
+        "tva": "0"
+    },
+    {
+        "designation": "CHIBRO CADRON CY FL/5ML",
+        "date_expiration": "4/30/24",
+        "prix": 9300,
+        "tva": "0"
+    },
+    {
+        "designation": "CHIBROXINE CY FL/5ML",
+        "date_expiration": "1/31/24",
+        "prix": 14500,
+        "tva": "0"
+    },
+    {
+        "designation": "CIPCAL CIPLA SP 150ML",
+        "date_expiration": "1/31/23",
+        "prix": 7470,
+        "tva": "0"
+    },
+    {
+        "designation": "CIPRO DENK 500MG CP B/10",
+        "date_expiration": "7/31/23",
+        "prix": 12900,
+        "tva": "0"
+    },
+    {
+        "designation": "CIPROZOLE FORTE 500/600 CP /10",
+        "date_expiration": "7/31/25",
+        "prix": 20300,
+        "tva": "0"
+    },
+    {
+        "designation": "CLAVUJECT INJ 1,2G B/1",
+        "date_expiration": "3/31/23",
+        "prix": 9200,
+        "tva": "0"
+    },
+    {
+        "designation": "CLOPI DENK 75MG B/30",
+        "date_expiration": "11/30/22",
+        "prix": 63410,
+        "tva": "0"
+    },
+    {
+        "designation": "CLOTRI DENK 1% CREME T/20G",
+        "date_expiration": "3/31/24",
+        "prix": 9000,
+        "tva": "0"
+    },
+    {
+        "designation": "CLOTRI DENK 100 CP VAG B/6",
+        "date_expiration": "10/31/23",
+        "prix": 10900,
+        "tva": "0"
+    },
+    {
+        "designation": "CLOVIGEL B/6",
+        "date_expiration": "10/31/23",
+        "prix": 4410,
+        "tva": "0"
+    },
+    {
+        "designation": "COLCHICINE OPOCALCIUM 1MG B/20",
+        "date_expiration": "7/31/24",
+        "prix": 11650,
+        "tva": "0"
+    },
+    {
+        "designation": "COLCHIMAX CP B/20",
+        "date_expiration": "12/31/22",
+        "prix": 19565,
+        "tva": "0"
+    },
+    {
+        "designation": "COLLYRE LAITER BLEU FL/10ML",
+        "date_expiration": "3/31/24",
+        "prix": 9800,
+        "tva": "0"
+    },
+    {
+        "designation": "COLPRONE 5MG CP B/20 3130H",
+        "date_expiration": "3/31/25",
+        "prix": 19000,
+        "tva": "0"
+    },
+    {
+        "designation": "COMBIFRINIL COMP B/3",
+        "date_expiration": "2/28/23",
+        "prix": 9270,
+        "tva": "0"
+    },
+    {
+        "designation": "COMBIFRINIL SUSP BUV FL/15ML",
+        "date_expiration": "4/30/23",
+        "prix": 11320,
+        "tva": "0"
+    },
+    {
+        "designation": "COMPR GAZE ST PHD 10X10CM B/10",
+        "date_expiration": "8/31/25",
+        "prix": 5000,
+        "tva": "0"
+    },
+    {
+        "designation": "COMPR NTNST 10 175220 /100",
+        "date_expiration": "2/28/26",
+        "prix": 29000,
+        "tva": "0"
+    },
+    {
+        "designation": "COMPR NTNST 10 175587 /100",
+        "date_expiration": "8/31/25",
+        "prix": 26000,
+        "tva": "0"
+    },
+    {
+        "designation": "COMPR NTNST 5 175656 /100",
+        "date_expiration": "4/30/23",
+        "prix": 10000,
+        "tva": "0"
+    },
+    {
+        "designation": "COMPR NTNST 7,5 175219 /100",
+        "date_expiration": "10/31/24",
+        "prix": 10500,
+        "tva": "0"
+    },
+    {
+        "designation": "COMPR NTNST 7,5 175570 /100",
+        "date_expiration": "8/31/24",
+        "prix": 12850,
+        "tva": "0"
+    },
+    {
+        "designation": "COQUELUSEDAL ENF SUPPO /10 AFR",
+        "date_expiration": "9/30/23",
+        "prix": 8000,
+        "tva": "0"
+    },
+    {
+        "designation": "COQUELUSEDAL NOUR SUPPO B/10",
+        "date_expiration": "6/30/24",
+        "prix": 7300,
+        "tva": "0"
+    },
+    {
+        "designation": "CORDARONE 200MG CP B/30",
+        "date_expiration": "6/30/24",
+        "prix": 50800,
+        "tva": "0"
+    },
+    {
+        "designation": "CORENITEC 20MG/12,5MG CP B/28",
+        "date_expiration": "10/31/23",
+        "prix": 19000,
+        "tva": "0"
+    },
+    {
+        "designation": "CORICIDE COCHON POM T/10G",
+        "date_expiration": "12/31/23",
+        "prix": 16430,
+        "tva": "0"
+    },
+    {
+        "designation": "CORTANCYL 5MG CP B/30",
+        "date_expiration": "2/29/24",
+        "prix": 8500,
+        "tva": "0"
+    },
+    {
+        "designation": "CORVASAL 2MG CP B/30",
+        "date_expiration": "8/31/23",
+        "prix": 19640,
+        "tva": "0"
+    },
+    {
+        "designation": "COSYREL 10MG/5MG CP B/30",
+        "date_expiration": "7/31/22",
+        "prix": 51500,
+        "tva": "0"
+    },
+    {
+        "designation": "COSYREL 5MG/10MG CP B/30",
+        "date_expiration": "5/31/23",
+        "prix": 37500,
+        "tva": "0"
+    },
+    {
+        "designation": "COSYREL 5MG/5MG CP B/30",
+        "date_expiration": "9/30/22",
+        "prix": 38000,
+        "tva": "0"
+    },
+    {
+        "designation": "COTAREG 160MG/25MG COMP B/28",
+        "date_expiration": "10/31/23",
+        "prix": 115000,
+        "tva": "0"
+    },
+    {
+        "designation": "COTAREG 80MG/12,5MG COMP B/28",
+        "date_expiration": "10/31/23",
+        "prix": 64000,
+        "tva": "0"
+    },
+    {
+        "designation": "COTON CODEX HYDRO LABELL 200G",
+        "date_expiration": "0/00/00",
+        "prix": 7970,
+        "tva": "0"
+    },
+    {
+        "designation": "COTON CODEX HYDRO LABELL 25G",
+        "date_expiration": "0/00/00",
+        "prix": 1700,
+        "tva": "0"
+    },
+    {
+        "designation": "COTON CODEX HYDRO LABELL 50G",
+        "date_expiration": "0/00/00",
+        "prix": 2406,
+        "tva": "0"
+    },
+    {
+        "designation": "COTON HYDRO SOMACOU 100G",
+        "date_expiration": "0/00/00",
+        "prix": 4300,
+        "tva": "0"
+    },
+    {
+        "designation": "COTON HYDRO SOMACOU 10G",
+        "date_expiration": "0/00/00",
+        "prix": 600,
+        "tva": "0"
+    },
+    {
+        "designation": "COTON HYDRO SOMACOU 200G",
+        "date_expiration": "0/00/00",
+        "prix": 7900,
+        "tva": "0"
+    },
+    {
+        "designation": "COTON HYDRO SOMACOU 500G",
+        "date_expiration": "0/00/00",
+        "prix": 17900,
+        "tva": "0"
+    },
+    {
+        "designation": "COTON HYDRO SOMACOU 50G",
+        "date_expiration": "0/00/00",
+        "prix": 2300,
+        "tva": "0"
+    },
+    {
+        "designation": "COUDIERE EPICONDY 6298 T3 GIB",
+        "date_expiration": "0/00/00",
+        "prix": 62000,
+        "tva": "0"
+    },
+    {
+        "designation": "COVERAM 10/10 CP B/30 MD",
+        "date_expiration": "8/31/23",
+        "prix": 82900,
+        "tva": "0"
+    },
+    {
+        "designation": "COVERAM 5/5 CP B/30 MD",
+        "date_expiration": "12/31/23",
+        "prix": 42600,
+        "tva": "0"
+    },
+    {
+        "designation": "COVERSYL 10MG CP B/30 MD",
+        "date_expiration": "8/31/23",
+        "prix": 40700,
+        "tva": "0"
+    },
+    {
+        "designation": "COVERSYL 5MG CP B/30 MD",
+        "date_expiration": "7/31/24",
+        "prix": 20500,
+        "tva": "0"
+    },
+    {
+        "designation": "COZAAR 50MG COMP B/28",
+        "date_expiration": "11/30/23",
+        "prix": 26500,
+        "tva": "0"
+    },
+    {
+        "designation": "CR HYDR BAOBAB TUBE 40G CO475",
+        "date_expiration": "8/31/22",
+        "prix": 8400,
+        "tva": "7"
+    },
+    {
+        "designation": "CR HYDRA ORCHIDEE TUB40G CO476",
+        "date_expiration": "8/31/22",
+        "prix": 8400,
+        "tva": "7"
+    },
+    {
+        "designation": "CUTACNYL 10% GEL T/40G",
+        "date_expiration": "5/31/23",
+        "prix": 12000,
+        "tva": "0"
+    },
+    {
+        "designation": "CUTACNYL 5% GEL T/40G",
+        "date_expiration": "3/31/23",
+        "prix": 11200,
+        "tva": "0"
+    },
+    {
+        "designation": "CYSTINE B6 BAILLEUL COMP B/60",
+        "date_expiration": "11/30/25",
+        "prix": 67000,
+        "tva": "0"
+    },
+    {
+        "designation": "DACRYOSERUM SOL OCUL UNIDOS/20",
+        "date_expiration": "11/30/22",
+        "prix": 27900,
+        "tva": "0"
+    },
+    {
+        "designation": "DAFLON 1000MG CP B/30",
+        "date_expiration": "1/31/25",
+        "prix": 58800,
+        "tva": "0"
+    },
+    {
+        "designation": "DAFLON 500MG COMP B/30 MD",
+        "date_expiration": "6/30/24",
+        "prix": 30600,
+        "tva": "0"
+    },
+    {
+        "designation": "DAKIN CPF STAB 250ML UNIT AFR",
+        "date_expiration": "4/30/23",
+        "prix": 7950,
+        "tva": "0"
+    },
+    {
+        "designation": "DAKIN CPF STAB 500ML UNIT AFR",
+        "date_expiration": "4/30/23",
+        "prix": 10900,
+        "tva": "0"
+    },
+    {
+        "designation": "DAKTARIN GEL BUCCAL T/40G",
+        "date_expiration": "4/30/24",
+        "prix": 21900,
+        "tva": "0"
+    },
+    {
+        "designation": "DAKTARIN PDRE FL/30G",
+        "date_expiration": "1/31/24",
+        "prix": 11200,
+        "tva": "0"
+    },
+    {
+        "designation": "DAONIL 5MG CP B/20",
+        "date_expiration": "2/28/23",
+        "prix": 9300,
+        "tva": "0"
+    },
+    {
+        "designation": "D-ARTEPP 20/160MG CP B/6",
+        "date_expiration": "2/28/22",
+        "prix": 6800,
+        "tva": "0"
+    },
+    {
+        "designation": "D-ARTEPP 40/320MG CP B/6",
+        "date_expiration": "2/28/22",
+        "prix": 13000,
+        "tva": "0"
+    },
+    {
+        "designation": "D-ARTEPP 40/320MG CP PEL B/9",
+        "date_expiration": "2/28/22",
+        "prix": 13000,
+        "tva": "0"
+    },
+    {
+        "designation": "DEBRIDAT 100MG COMP B/30",
+        "date_expiration": "10/31/22",
+        "prix": 19350,
+        "tva": "0"
+    },
+    {
+        "designation": "DECAPEPTYL LP 3,75MG AMP B/1",
+        "date_expiration": "12/31/22",
+        "prix": 643200,
+        "tva": "0"
+    },
+    {
+        "designation": "DEPAKINE 500MG CP T/40",
+        "date_expiration": "1/31/24",
+        "prix": 37800,
+        "tva": "0"
+    },
+    {
+        "designation": "DEPAKINE 57,64MG/ML F/150ML",
+        "date_expiration": "10/31/22",
+        "prix": 24970,
+        "tva": "0"
+    },
+    {
+        "designation": "DEPAKINE CHRONO 500MG CP B/30",
+        "date_expiration": "12/31/23",
+        "prix": 47600,
+        "tva": "0"
+    },
+    {
+        "designation": "DEPAMIDE 300MG CP DRAG B/30",
+        "date_expiration": "3/31/23",
+        "prix": 30000,
+        "tva": "0"
+    },
+    {
+        "designation": "DERMOBACTER SOL FL/125ML",
+        "date_expiration": "7/31/22",
+        "prix": 8150,
+        "tva": "0"
+    },
+    {
+        "designation": "DERMOFIX CREM T/20G",
+        "date_expiration": "6/30/23",
+        "prix": 14200,
+        "tva": "0"
+    },
+    {
+        "designation": "DEROXAT 20MG CP B/14",
+        "date_expiration": "5/31/23",
+        "prix": 52000,
+        "tva": "0"
+    },
+    {
+        "designation": "DESOMEDINE CY FL/10ML",
+        "date_expiration": "10/31/23",
+        "prix": 8560,
+        "tva": "0"
+    },
+    {
+        "designation": "DIAMICRON 30MG LM CP/30 MD",
+        "date_expiration": "11/30/23",
+        "prix": 25200,
+        "tva": "0"
+    },
+    {
+        "designation": "DIAMICRON 30MG LM CP/60 MD",
+        "date_expiration": "11/30/23",
+        "prix": 78500,
+        "tva": "0"
+    },
+    {
+        "designation": "DIAMICRON 60MG LM CP/30 MD",
+        "date_expiration": "11/30/23",
+        "prix": 31600,
+        "tva": "0"
+    },
+    {
+        "designation": "DIAPRIDE 2MG CP B/30",
+        "date_expiration": "10/31/24",
+        "prix": 17600,
+        "tva": "0"
+    },
+    {
+        "designation": "DIAPRIDE 4MG CP B/30",
+        "date_expiration": "4/30/23",
+        "prix": 30500,
+        "tva": "0"
+    },
+    {
+        "designation": "DIAPRIDE PLUS 1MG/500MG CP /30",
+        "date_expiration": "7/31/23",
+        "prix": 21350,
+        "tva": "0"
+    },
+    {
+        "designation": "DIAPRIDE PLUS 2MG/500MG CP /30",
+        "date_expiration": "1/31/24",
+        "prix": 23500,
+        "tva": "0"
+    },
+    {
+        "designation": "DICACILLINE INJ 1,2MUI AMP B/1",
+        "date_expiration": "9/30/23",
+        "prix": 6200,
+        "tva": "0"
+    },
+    {
+        "designation": "DICLO DENK 100 RECTAL B/10",
+        "date_expiration": "3/31/24",
+        "prix": 11900,
+        "tva": "0"
+    },
+    {
+        "designation": "DICLO DENK 100 RETARD BL/10X10",
+        "date_expiration": "2/29/24",
+        "prix": 44010,
+        "tva": "0"
+    },
+    {
+        "designation": "DICLO DENK 100 RETARD CP B/10",
+        "date_expiration": "10/31/23",
+        "prix": 6000,
+        "tva": "0"
+    },
+    {
+        "designation": "DICLODYNE 100MG SUPPO B/5",
+        "date_expiration": "3/31/24",
+        "prix": 5900,
+        "tva": "0"
+    },
+    {
+        "designation": "DIFFERINE 0,1% CREME T/30G",
+        "date_expiration": "6/30/24",
+        "prix": 22400,
+        "tva": "0"
+    },
+    {
+        "designation": "DIFFU K GELULE B/40",
+        "date_expiration": "11/30/23",
+        "prix": 11000,
+        "tva": "0"
+    },
+    {
+        "designation": "DIFRAREL 100 CP B/20",
+        "date_expiration": "9/30/23",
+        "prix": 38000,
+        "tva": "0"
+    },
+    {
+        "designation": "DIFRAREL E CP B/24",
+        "date_expiration": "10/31/23",
+        "prix": 12400,
+        "tva": "0"
+    },
+    {
+        "designation": "DIGUSIL MPS SUSP BUV F/170ML",
+        "date_expiration": "6/30/24",
+        "prix": 7850,
+        "tva": "0"
+    },
+    {
+        "designation": "DIPROLENE 0,05% POM T/15G",
+        "date_expiration": "3/31/24",
+        "prix": 8500,
+        "tva": "0"
+    },
+    {
+        "designation": "DIPROSALIC POM T/30G",
+        "date_expiration": "3/31/24",
+        "prix": 14600,
+        "tva": "0"
+    },
+    {
+        "designation": "DIPROSONE 0.05% CREME T/30G",
+        "date_expiration": "9/30/23",
+        "prix": 15100,
+        "tva": "0"
+    },
+    {
+        "designation": "DIPROSONE 0.05% POM T/30G",
+        "date_expiration": "1/31/24",
+        "prix": 14700,
+        "tva": "0"
+    },
+    {
+        "designation": "DITROPAN 5MG CP B/60",
+        "date_expiration": "12/31/23",
+        "prix": 22000,
+        "tva": "0"
+    },
+    {
+        "designation": "DOGMATIL FORT 200MG COMP B/12",
+        "date_expiration": "6/30/23",
+        "prix": 16000,
+        "tva": "0"
+    },
+    {
+        "designation": "DOLIMEX PERF POCHE 100ML",
+        "date_expiration": "7/31/23",
+        "prix": 9400,
+        "tva": "0"
+    },
+    {
+        "designation": "DOLIPRANE 2,4% SUSP PED 100ML",
+        "date_expiration": "7/31/23",
+        "prix": 7800,
+        "tva": "0"
+    },
+    {
+        "designation": "DOLIPRANE 500 VIT C CP EFF/16",
+        "date_expiration": "5/31/24",
+        "prix": 7000,
+        "tva": "0"
+    },
+    {
+        "designation": "DOLIPRANE 500MG CP B/2X8",
+        "date_expiration": "4/30/24",
+        "prix": 5400,
+        "tva": "0"
+    },
+    {
+        "designation": "DOMPERIDONE BGR 10MG B/20",
+        "date_expiration": "2/29/24",
+        "prix": 8000,
+        "tva": "0"
+    },
+    {
+        "designation": "DONORMYL 15MG CP SEC B/10",
+        "date_expiration": "5/31/23",
+        "prix": 16600,
+        "tva": "0"
+    },
+    {
+        "designation": "DULCOLAX 10MG SUPPO B/6",
+        "date_expiration": "5/31/24",
+        "prix": 36000,
+        "tva": "0"
+    },
+    {
+        "designation": "DULCOLAX 5MG CP B/30",
+        "date_expiration": "11/30/23",
+        "prix": 41500,
+        "tva": "0"
+    },
+    {
+        "designation": "DUPHALAC SOL 66,5FLP/200ML+GOB",
+        "date_expiration": "2/29/24",
+        "prix": 8200,
+        "tva": "0"
+    },
+    {
+        "designation": "DUSPATALIN 200MG GEL B/30",
+        "date_expiration": "8/31/23",
+        "prix": 18470,
+        "tva": "0"
+    },
+    {
+        "designation": "DUTASTERIDE BGR 0,5MG CAPS/30",
+        "date_expiration": "11/30/23",
+        "prix": 48383,
+        "tva": "0"
+    },
+    {
+        "designation": "DYNAMOGEN AMP BUV B/20",
+        "date_expiration": "1/31/26",
+        "prix": 19700,
+        "tva": "0"
+    },
+    {
+        "designation": "DYNAPAR 50MG/500MG CP 10X10",
+        "date_expiration": "12/31/24",
+        "prix": 28990,
+        "tva": "0"
+    },
+    {
+        "designation": "DYNAPAR EC 50MG CP B/10X10",
+        "date_expiration": "12/31/24",
+        "prix": 11200,
+        "tva": "0"
+    },
+    {
+        "designation": "EFFERALGAN 500MG CP B/16 AFR",
+        "date_expiration": "5/31/23",
+        "prix": 5860,
+        "tva": "0"
+    },
+    {
+        "designation": "EFFERALGAN 500MG GEL B/16",
+        "date_expiration": "9/30/23",
+        "prix": 5350,
+        "tva": "0"
+    },
+    {
+        "designation": "EFFERALGAN 80MG SUPPO B/10 AFR",
+        "date_expiration": "8/31/23",
+        "prix": 4900,
+        "tva": "0"
+    },
+    {
+        "designation": "EFFERALGAN VIT C 500 CP EFF/16",
+        "date_expiration": "2/28/23",
+        "prix": 6000,
+        "tva": "0"
+    },
+    {
+        "designation": "ELECTROLYTE DENK SACH B/10",
+        "date_expiration": "5/31/23",
+        "prix": 21000,
+        "tva": "7"
+    },
+    {
+        "designation": "ELGYDIUM BLANCHEUR 75ML",
+        "date_expiration": "3/31/24",
+        "prix": 32000,
+        "tva": "0"
+    },
+    {
+        "designation": "ENA+HCT DENK 20M/12,5G CP/30",
+        "date_expiration": "1/31/23",
+        "prix": 31000,
+        "tva": "0"
+    },
+    {
+        "designation": "ENERGIE FL/100ML",
+        "date_expiration": "6/30/24",
+        "prix": 6650,
+        "tva": "0"
+    },
+    {
+        "designation": "ENOXAPARINE CRUS2000 0,2ML /2",
+        "date_expiration": "10/31/22",
+        "prix": 18100,
+        "tva": "0"
+    },
+    {
+        "designation": "ENOXAPARINE CRUS4000 0,4ML /2",
+        "date_expiration": "10/31/22",
+        "prix": 39100,
+        "tva": "0"
+    },
+    {
+        "designation": "ENTAMIZOLE SUSP BUV F/100ML",
+        "date_expiration": "4/30/22",
+        "prix": 18000,
+        "tva": "0"
+    },
+    {
+        "designation": "EROSTIN 10 CP B/10",
+        "date_expiration": "10/31/22",
+        "prix": 7960,
+        "tva": "0"
+    },
+    {
+        "designation": "EROSTIN 20 CP B/10",
+        "date_expiration": "11/30/23",
+        "prix": 10300,
+        "tva": "0"
+    },
+    {
+        "designation": "ERY 500 COMP B/10",
+        "date_expiration": "11/30/23",
+        "prix": 14486,
+        "tva": "0"
+    },
+    {
+        "designation": "ESBERIVEN FORT COMP B/30",
+        "date_expiration": "11/30/23",
+        "prix": 36000,
+        "tva": "0"
+    },
+    {
+        "designation": "ESOFAG 20MG B/30",
+        "date_expiration": "7/31/24",
+        "prix": 21000,
+        "tva": "0"
+    },
+    {
+        "designation": "ESOFAG 40MG B/30",
+        "date_expiration": "7/31/24",
+        "prix": 25250,
+        "tva": "0"
+    },
+    {
+        "designation": "ES-ULCIZONE 20MG CP B/14",
+        "date_expiration": "6/30/23",
+        "prix": 17000,
+        "tva": "0"
+    },
+    {
+        "designation": "EUPHON PAST MENTHOL B/70",
+        "date_expiration": "10/31/22",
+        "prix": 17100,
+        "tva": "0"
+    },
+    {
+        "designation": "EUPHON SP FL/300ML +GODET",
+        "date_expiration": "7/31/24",
+        "prix": 17900,
+        "tva": "0"
+    },
+    {
+        "designation": "EUROPEN STYLO INS 101400 /100",
+        "date_expiration": "4/30/25",
+        "prix": 40200,
+        "tva": "0"
+    },
+    {
+        "designation": "EUROPLAIE PANS 10X15 135287Z/5",
+        "date_expiration": "11/30/25",
+        "prix": 5800,
+        "tva": "0"
+    },
+    {
+        "designation": "EXFORGE FCT 10/160MG CP PEL/28",
+        "date_expiration": "3/31/23",
+        "prix": 98500,
+        "tva": "0"
+    },
+    {
+        "designation": "EXFORGE FCT 5/160MG CP PEL/28",
+        "date_expiration": "2/29/24",
+        "prix": 98500,
+        "tva": "0"
+    },
+    {
+        "designation": "EXFORGE FCT 5/80MG CP PEL/28",
+        "date_expiration": "3/31/24",
+        "prix": 104000,
+        "tva": "0"
+    },
+    {
+        "designation": "EXFORGE HCT 10/160/12,5MG B/28",
+        "date_expiration": "3/31/23",
+        "prix": 103900,
+        "tva": "0"
+    },
+    {
+        "designation": "EXFORGE HCT 10/160/25MG B/28",
+        "date_expiration": "2/28/23",
+        "prix": 106900,
+        "tva": "0"
+    },
+    {
+        "designation": "EXFORGE HCT 5/160/12,5MG B/28",
+        "date_expiration": "2/28/23",
+        "prix": 104450,
+        "tva": "0"
+    },
+    {
+        "designation": "EXOMUC 200MG GRAN SACH B/30",
+        "date_expiration": "6/30/24",
+        "prix": 17200,
+        "tva": "0"
+    },
+    {
+        "designation": "EXTRANASE DRAG B/40",
+        "date_expiration": "10/31/22",
+        "prix": 24500,
+        "tva": "0"
+    },
+    {
+        "designation": "EXXIB 200MG CP B/10",
+        "date_expiration": "10/31/22",
+        "prix": 7500,
+        "tva": "0"
+    },
+    {
+        "designation": "FAZ STETHO DOUBLE PAV LUX BLEU",
+        "date_expiration": "0/00/00",
+        "prix": 13260,
+        "tva": "0"
+    },
+    {
+        "designation": "FAZ STETHO DOUBLE PAV LUXE NOI",
+        "date_expiration": "0/00/00",
+        "prix": 13260,
+        "tva": "0"
+    },
+    {
+        "designation": "FAZ TENSIO AN+BRAS PED 0833102",
+        "date_expiration": "0/00/00",
+        "prix": 39520,
+        "tva": "0"
+    },
+    {
+        "designation": "FAZOL 2% CREME DERM T/30G",
+        "date_expiration": "1/31/23",
+        "prix": 19860,
+        "tva": "0"
+    },
+    {
+        "designation": "FELDENE 20MG DISP CP B/15",
+        "date_expiration": "3/31/23",
+        "prix": 37000,
+        "tva": "0"
+    },
+    {
+        "designation": "FELDENE 20MG GELU B/15",
+        "date_expiration": "10/31/23",
+        "prix": 33600,
+        "tva": "0"
+    },
+    {
+        "designation": "FERLIX B12 S.BUV 200ML",
+        "date_expiration": "12/31/22",
+        "prix": 8770,
+        "tva": "0"
+    },
+    {
+        "designation": "FERRO DENK 50MG CP B/50",
+        "date_expiration": "8/31/24",
+        "prix": 20965,
+        "tva": "0"
+    },
+    {
+        "designation": "FERROSTRANE SIR F/125ML",
+        "date_expiration": "12/31/23",
+        "prix": 13500,
+        "tva": "0"
+    },
+    {
+        "designation": "FERTILO FORTE DENK SACH B/30",
+        "date_expiration": "4/30/23",
+        "prix": 67500,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM CISEAU BB COULEUR R39",
+        "date_expiration": "0/00/00",
+        "prix": 24250,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM CISEAU ONG INOX COURB 82",
+        "date_expiration": "0/00/00",
+        "prix": 28300,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM COUP CUTICULES REF 43",
+        "date_expiration": "0/00/00",
+        "prix": 18700,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM LAME COUP COR B/10 R/50",
+        "date_expiration": "0/00/00",
+        "prix": 15650,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM LIME EMERIS GM B/6 REF 7",
+        "date_expiration": "0/00/00",
+        "prix": 15300,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM LIME EMERIS PM B/6 REF 6",
+        "date_expiration": "0/00/00",
+        "prix": 13700,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM LIME SAPHIR DIAMANT R/2",
+        "date_expiration": "0/00/00",
+        "prix": 13450,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM MAXI LAME EMERIS ETUI/3",
+        "date_expiration": "0/00/00",
+        "prix": 13800,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM PINCE ECHARD INOX 10CM",
+        "date_expiration": "0/00/00",
+        "prix": 16200,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM RAPE PLANT D/FACE REF 79",
+        "date_expiration": "0/00/00",
+        "prix": 24650,
+        "tva": "7"
+    },
+    {
+        "designation": "FFLAM TIRE COMEDONS GILB",
+        "date_expiration": "0/00/00",
+        "prix": 23700,
+        "tva": "7"
+    },
+    {
+        "designation": "FIGURIN GELU B/60",
+        "date_expiration": "5/31/23",
+        "prix": 32400,
+        "tva": "0"
+    },
+    {
+        "designation": "FIXIM 200MG B/10",
+        "date_expiration": "3/31/24",
+        "prix": 31200,
+        "tva": "0"
+    },
+    {
+        "designation": "FIXODENT PRO DUO PROTECT 40G",
+        "date_expiration": "5/31/24",
+        "prix": 26000,
+        "tva": "0"
+    },
+    {
+        "designation": "FLAGENTYL 500MG CP B/4",
+        "date_expiration": "2/29/24",
+        "prix": 20700,
+        "tva": "0"
+    },
+    {
+        "designation": "FLAGYL 250MG CP B/20 ES",
+        "date_expiration": "2/29/24",
+        "prix": 11750,
+        "tva": "0"
+    },
+    {
+        "designation": "FLEMING 1000/125MG CP B/16",
+        "date_expiration": "11/30/22",
+        "prix": 28000,
+        "tva": "0"
+    },
+    {
+        "designation": "FLEMING 1G 200MG INJ AMP/5",
+        "date_expiration": "1/31/23",
+        "prix": 39000,
+        "tva": "0"
+    },
+    {
+        "designation": "FLEMING 500/62,5MG CP B/16",
+        "date_expiration": "10/31/22",
+        "prix": 18900,
+        "tva": "0"
+    },
+    {
+        "designation": "FLIXONASE 50MCG NAS PULV/120DS",
+        "date_expiration": "3/31/23",
+        "prix": 18000,
+        "tva": "0"
+    },
+    {
+        "designation": "FLOTAC HGC 75MG CAPS/2X10",
+        "date_expiration": "5/31/24",
+        "prix": 27600,
+        "tva": "0"
+    },
+    {
+        "designation": "FLUCON CY FL/3ML",
+        "date_expiration": "12/31/22",
+        "prix": 7600,
+        "tva": "0"
+    },
+    {
+        "designation": "FLUCONA DENK 150 GELU B/1",
+        "date_expiration": "4/30/23",
+        "prix": 7500,
+        "tva": "0"
+    },
+    {
+        "designation": "FLUCONAZOLE BGR 10MG/ML 35 SER",
+        "date_expiration": "4/30/23",
+        "prix": 65000,
+        "tva": "0"
+    },
+    {
+        "designation": "FLUDEX LP 1,5MG COMP B/30 MD",
+        "date_expiration": "5/31/23",
+        "prix": 20270,
+        "tva": "0"
+    },
+    {
+        "designation": "FLUDITEC 750MG 10ML SAC/15",
+        "date_expiration": "5/31/22",
+        "prix": 5000,
+        "tva": "0"
+    },
+    {
+        "designation": "FLUIMUCIL 200MG AD GRAN S/18",
+        "date_expiration": "6/30/23",
+        "prix": 11400,
+        "tva": "0"
+    },
+    {
+        "designation": "FLUOXINE 500MG CP B/10",
+        "date_expiration": "10/31/23",
+        "prix": 7500,
+        "tva": "0"
+    },
+    {
+        "designation": "FOLICIL CP B/20",
+        "date_expiration": "11/30/22",
+        "prix": 9270,
+        "tva": "0"
+    },
+    {
+        "designation": "FOLIFER CP B/60",
+        "date_expiration": "10/31/22",
+        "prix": 23300,
+        "tva": "0"
+    },
+    {
+        "designation": "FORLAX 10G SACH B/20",
+        "date_expiration": "6/30/24",
+        "prix": 22000,
+        "tva": "0"
+    },
+    {
+        "designation": "FORTRANS PDRE SACH B/4",
+        "date_expiration": "11/30/23",
+        "prix": 49600,
+        "tva": "0"
+    },
+    {
+        "designation": "FRAKIDEX CY FL/5ML",
+        "date_expiration": "5/31/23",
+        "prix": 7240,
+        "tva": "0"
+    },
+    {
+        "designation": "FRIDIAL S.BUV FL/50ML",
+        "date_expiration": "1/31/23",
+        "prix": 21200,
+        "tva": "0"
+    },
+    {
+        "designation": "FUNGIZONE SUSP BUV FL/40ML",
+        "date_expiration": "9/30/22",
+        "prix": 27800,
+        "tva": "0"
+    },
+    {
+        "designation": "GALACTOGIL LACTATION SACH/24",
+        "date_expiration": "10/31/23",
+        "prix": 16400,
+        "tva": "7"
+    },
+    {
+        "designation": "GALVUS 50MG CP B/2X14",
+        "date_expiration": "8/31/23",
+        "prix": 59350,
+        "tva": "0"
+    },
+    {
+        "designation": "GALVUSMET 50/500MG CP B/30",
+        "date_expiration": "11/30/22",
+        "prix": 58000,
+        "tva": "0"
+    },
+    {
+        "designation": "GAMALATE B6 CP B/20 AFR",
+        "date_expiration": "10/31/25",
+        "prix": 19550,
+        "tva": "0"
+    },
+    {
+        "designation": "GAMALATE B6 SOL F/80ML AFR",
+        "date_expiration": "4/30/26",
+        "prix": 19000,
+        "tva": "0"
+    },
+    {
+        "designation": "GANT EXAM NSP 8/9 127302 /100",
+        "date_expiration": "0/00/00",
+        "prix": 93800,
+        "tva": "7"
+    },
+    {
+        "designation": "GEL ANTISEPTIQUE ALOE F/750ML",
+        "date_expiration": "3/31/22",
+        "prix": 17000,
+        "tva": "7"
+    },
+    {
+        "designation": "GEL DOUCHE HE YLANGYLANG 300ML",
+        "date_expiration": "3/31/23",
+        "prix": 11300,
+        "tva": "7"
+    },
+    {
+        "designation": "GESTARELLE G GROSSESSE.B/30",
+        "date_expiration": "4/30/23",
+        "prix": 16250,
+        "tva": "7"
+    },
+    {
+        "designation": "GLINIL 5MG CP B/10X10",
+        "date_expiration": "5/31/24",
+        "prix": 14100,
+        "tva": "0"
+    },
+    {
+        "designation": "GLUCOPHAGE 850MG CP B/30",
+        "date_expiration": "1/31/26",
+        "prix": 15000,
+        "tva": "0"
+    },
+    {
+        "designation": "GLYCERINE OFF FL/1L CPF",
+        "date_expiration": "10/31/23",
+        "prix": 73500,
+        "tva": "7"
+    },
+    {
+        "designation": "GRAMOCEF 0 200MG B/10",
+        "date_expiration": "3/31/23",
+        "prix": 24900,
+        "tva": "0"
+    },
+    {
+        "designation": "GRAMOCEF 0 400MG B/10",
+        "date_expiration": "6/30/22",
+        "prix": 27500,
+        "tva": "0"
+    },
+    {
+        "designation": "GRANI-DENK 1MG/ML AMP 1ML B/5",
+        "date_expiration": "9/30/22",
+        "prix": 128054,
+        "tva": "0"
+    },
+    {
+        "designation": "GRT CP B/4",
+        "date_expiration": "7/31/24",
+        "prix": 1380,
+        "tva": "0"
+    },
+    {
+        "designation": "GRT SP FL/100ML",
+        "date_expiration": "3/31/24",
+        "prix": 7350,
+        "tva": "0"
+    },
+    {
+        "designation": "GYNANFORT OVULE B/10",
+        "date_expiration": "5/31/23",
+        "prix": 14600,
+        "tva": "0"
+    },
+    {
+        "designation": "GYNOFAST CP B/6",
+        "date_expiration": "2/29/24",
+        "prix": 7350,
+        "tva": "0"
+    },
+    {
+        "designation": "GYNOPEVARYL 150MG OVULE B/3",
+        "date_expiration": "2/29/24",
+        "prix": 20000,
+        "tva": "0"
+    },
+    {
+        "designation": "HALDOL 0,2% GTTE FL/30ML",
+        "date_expiration": "3/31/24",
+        "prix": 8640,
+        "tva": "0"
+    },
+    {
+        "designation": "HALDOL 5MG AMP INJ 1ML B/5",
+        "date_expiration": "11/30/25",
+        "prix": 6600,
+        "tva": "0"
+    },
+    {
+        "designation": "HALDOL 5MG COMP B/30",
+        "date_expiration": "2/29/24",
+        "prix": 12600,
+        "tva": "0"
+    },
+    {
+        "designation": "HALDOL DECANOAS SOL INJ 1ML /5",
+        "date_expiration": "1/31/24",
+        "prix": 84000,
+        "tva": "0"
+    },
+    {
+        "designation": "HE CITRONNELLE 10ML HE106",
+        "date_expiration": "1/31/25",
+        "prix": 13400,
+        "tva": "7"
+    },
+    {
+        "designation": "HE GERANIUM 10ML HE109",
+        "date_expiration": "3/31/25",
+        "prix": 13400,
+        "tva": "7"
+    },
+    {
+        "designation": "HE MENTHE 10 ML HE114",
+        "date_expiration": "4/30/25",
+        "prix": 13400,
+        "tva": "7"
+    },
+    {
+        "designation": "HELMINTOX 250MG CP B/3",
+        "date_expiration": "2/29/24",
+        "prix": 7780,
+        "tva": "0"
+    },
+    {
+        "designation": "HELMINTOX GE SUSP BUV FL/15ML",
+        "date_expiration": "3/31/24",
+        "prix": 8900,
+        "tva": "0"
+    },
+    {
+        "designation": "HERPERAX 200MG COMP B/20",
+        "date_expiration": "4/30/24",
+        "prix": 15015,
+        "tva": "0"
+    },
+    {
+        "designation": "HERPERAX 800MG COMP B/20",
+        "date_expiration": "8/31/23",
+        "prix": 30000,
+        "tva": "0"
+    },
+    {
+        "designation": "HEXTRIL BAIN B F/200ML",
+        "date_expiration": "1/31/23",
+        "prix": 27300,
+        "tva": "0"
+    },
+    {
+        "designation": "HIPRES 50 CP B/140",
+        "date_expiration": "7/31/24",
+        "prix": 13100,
+        "tva": "0"
+    },
+    {
+        "designation": "HOMEOALLERGO FL CP/60 SC513",
+        "date_expiration": "3/31/24",
+        "prix": 6000,
+        "tva": "0"
+    },
+    {
+        "designation": "HOMEOKIBO CP FL/60 PH07041",
+        "date_expiration": "2/29/24",
+        "prix": 6000,
+        "tva": "0"
+    },
+    {
+        "designation": "HOMEOPHARMA ANANAMBO GELU /70",
+        "date_expiration": "0/00/00",
+        "prix": 5650,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA COMPL FLORAL100ML",
+        "date_expiration": "0/00/00",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA CR ALOE VI/COR40ML",
+        "date_expiration": "8/31/22",
+        "prix": 7900,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA DEMA MASONJOANY150",
+        "date_expiration": "10/31/22",
+        "prix": 8435,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA DEO ALAMO R ON60ML",
+        "date_expiration": "0/00/00",
+        "prix": 6000,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA EAU PRE BAOBA150ML",
+        "date_expiration": "11/30/22",
+        "prix": 8550,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA EDC MENTH/CITRON",
+        "date_expiration": "5/31/23",
+        "prix": 9000,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA EDC VANIL/LOTUS",
+        "date_expiration": "5/31/23",
+        "prix": 9000,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA FL CITRON R ON60ML",
+        "date_expiration": "0/00/00",
+        "prix": 6150,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA FL VANIL R ON 60ML",
+        "date_expiration": "0/00/00",
+        "prix": 6150,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA FL YLANG R ON 60ML",
+        "date_expiration": "11/30/23",
+        "prix": 6150,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA FR BAOBAB PDRE100G",
+        "date_expiration": "6/30/22",
+        "prix": 10105,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA HE KATRAFAY 10ML",
+        "date_expiration": "2/28/25",
+        "prix": 9000,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA LOT NET BAOBA150ML",
+        "date_expiration": "10/31/22",
+        "prix": 6500,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA MORINGA PDRE 100G",
+        "date_expiration": "5/31/22",
+        "prix": 5800,
+        "tva": "0"
+    },
+    {
+        "designation": "HOMEOPHARMA MORINGA PDRE 40G",
+        "date_expiration": "6/30/22",
+        "prix": 2900,
+        "tva": "0"
+    },
+    {
+        "designation": "HOMEOPHARMA NETT MASONJOANY150",
+        "date_expiration": "1/31/23",
+        "prix": 8435,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA NONI 500ML",
+        "date_expiration": "11/30/22",
+        "prix": 13500,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA PDRE MASONJOANY10G",
+        "date_expiration": "7/31/23",
+        "prix": 4600,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA SAV ARGILE VERT60G",
+        "date_expiration": "0/00/00",
+        "prix": 4400,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA SAV MINCEUR 60G",
+        "date_expiration": "3/31/23",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA SOJA PDRE AROM100G",
+        "date_expiration": "0/00/00",
+        "prix": 2250,
+        "tva": "0"
+    },
+    {
+        "designation": "HOMEOPHARMA SPIRULINE GELU /80",
+        "date_expiration": "8/31/22",
+        "prix": 11000,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA SPIRULINE PDRE 40G",
+        "date_expiration": "0/00/00",
+        "prix": 5800,
+        "tva": "0"
+    },
+    {
+        "designation": "HOMEOPHARMA VAHONA MIEL 500ML",
+        "date_expiration": "0/00/00",
+        "prix": 9500,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA VAHONA NA CIT500ML",
+        "date_expiration": "7/31/22",
+        "prix": 9500,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPHARMA VAHONA SS ALC500ML",
+        "date_expiration": "7/31/22",
+        "prix": 9500,
+        "tva": "7"
+    },
+    {
+        "designation": "HOMEOPLASMINE POM T/18G",
+        "date_expiration": "1/31/24",
+        "prix": 24700,
+        "tva": "0"
+    },
+    {
+        "designation": "HP BAUME MENTHE RAVINT P/20G",
+        "date_expiration": "10/31/22",
+        "prix": 6600,
+        "tva": "7"
+    },
+    {
+        "designation": "HP CPL ALLERGAROME 10ML",
+        "date_expiration": "11/30/23",
+        "prix": 6300,
+        "tva": "7"
+    },
+    {
+        "designation": "HP CPL ASTHMAROME 10ML",
+        "date_expiration": "2/28/22",
+        "prix": 2000,
+        "tva": "7"
+    },
+    {
+        "designation": "HP CR HYDRA MASONJOANY T/40ML",
+        "date_expiration": "4/30/22",
+        "prix": 8350,
+        "tva": "7"
+    },
+    {
+        "designation": "HP CR KATRAFAY R 125ML",
+        "date_expiration": "9/30/22",
+        "prix": 9000,
+        "tva": "7"
+    },
+    {
+        "designation": "HP HUILE AMANDE DOUCE 30ML",
+        "date_expiration": "8/31/23",
+        "prix": 5500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP HUILE ANTI POUX 110ML",
+        "date_expiration": "6/30/23",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP HUILE GIROFLE CLOU 10ML",
+        "date_expiration": "0/00/00",
+        "prix": 14000,
+        "tva": "7"
+    },
+    {
+        "designation": "HP HUILE KATRAFAY 150ML",
+        "date_expiration": "11/30/23",
+        "prix": 6800,
+        "tva": "7"
+    },
+    {
+        "designation": "HP HUILE NIAOULEE 30ML",
+        "date_expiration": "8/31/23",
+        "prix": 3000,
+        "tva": "7"
+    },
+    {
+        "designation": "HP HUILE RAVINTSARA 150ML",
+        "date_expiration": "0/00/00",
+        "prix": 6800,
+        "tva": "7"
+    },
+    {
+        "designation": "HP HUILE RELAX 150ML",
+        "date_expiration": "8/31/23",
+        "prix": 6800,
+        "tva": "7"
+    },
+    {
+        "designation": "HP LOTION NETTOYANTE NEEM",
+        "date_expiration": "2/28/22",
+        "prix": 5500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP PC04 PHYTO ESTOMAC INFUS/20",
+        "date_expiration": "1/31/23",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP PC08 PHYTO REINS INFUS/20",
+        "date_expiration": "0/00/00",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP PC10 PHYTO FOIE VB INFUS/10",
+        "date_expiration": "8/31/23",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP PC15 PHYTO FEMME INFUS/10",
+        "date_expiration": "8/31/23",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP PC30 PHYTO CALCULS INFUS/10",
+        "date_expiration": "0/00/00",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP PC31 PHYTO DIABETE INFUS/10",
+        "date_expiration": "0/00/00",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HP SPRAY HALEINE FRAICHE 20ML",
+        "date_expiration": "4/30/23",
+        "prix": 3300,
+        "tva": "7"
+    },
+    {
+        "designation": "HP THE VERT INFUS /20",
+        "date_expiration": "1/31/23",
+        "prix": 5200,
+        "tva": "7"
+    },
+    {
+        "designation": "HP TM ARTICHAUD 100ML",
+        "date_expiration": "1/31/23",
+        "prix": 6500,
+        "tva": "7"
+    },
+    {
+        "designation": "HUIL REVIT CAPIL110 ML CO504",
+        "date_expiration": "0/00/00",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "HUILE DE COCO 100G HV110",
+        "date_expiration": "11/30/23",
+        "prix": 9700,
+        "tva": "7"
+    },
+    {
+        "designation": "HYPERIUM 1MG COMP B/30 MD",
+        "date_expiration": "5/31/22",
+        "prix": 55000,
+        "tva": "0"
+    },
+    {
+        "designation": "HYTACAND 16MG/12,5MG CP B/30",
+        "date_expiration": "9/30/23",
+        "prix": 116900,
+        "tva": "0"
+    },
+    {
+        "designation": "HYZAAR 50/12,5MG CP B/28",
+        "date_expiration": "3/31/23",
+        "prix": 31300,
+        "tva": "0"
+    },
+    {
+        "designation": "IBUMOL 400MG B/30",
+        "date_expiration": "12/31/24",
+        "prix": 9405,
+        "tva": "0"
+    },
+    {
+        "designation": "IBUMOL 400MG COMP B/10",
+        "date_expiration": "1/31/25",
+        "prix": 4100,
+        "tva": "0"
+    },
+    {
+        "designation": "IBUPROFEN DENK 600 B/20",
+        "date_expiration": "7/31/23",
+        "prix": 15500,
+        "tva": "0"
+    },
+    {
+        "designation": "IMODIUM 2MG GELU B/20",
+        "date_expiration": "11/30/25",
+        "prix": 12200,
+        "tva": "0"
+    },
+    {
+        "designation": "IMRA HLE ESS ANTISEPTIQ 6ML",
+        "date_expiration": "0/00/00",
+        "prix": 2807,
+        "tva": "7"
+    },
+    {
+        "designation": "IMRA HLE ESS ATA SACH 10G",
+        "date_expiration": "0/00/00",
+        "prix": 4274,
+        "tva": "0"
+    },
+    {
+        "designation": "IMRA HLE ESS RAVINTSARA 10ML",
+        "date_expiration": "0/00/00",
+        "prix": 8380,
+        "tva": "7"
+    },
+    {
+        "designation": "INDOCID 100MG SUPPO B/10",
+        "date_expiration": "11/30/22",
+        "prix": 15900,
+        "tva": "0"
+    },
+    {
+        "designation": "INSTACLOP 75MG CP B/30",
+        "date_expiration": "12/31/23",
+        "prix": 53800,
+        "tva": "0"
+    },
+    {
+        "designation": "ISOPTINE LP 240MG COMP B/30",
+        "date_expiration": "8/31/23",
+        "prix": 31500,
+        "tva": "0"
+    },
+    {
+        "designation": "ITACARE 100MG B/10",
+        "date_expiration": "6/30/22",
+        "prix": 16000,
+        "tva": "0"
+    },
+    {
+        "designation": "JONCTUM CICA CR REPAR T/30ML",
+        "date_expiration": "6/30/22",
+        "prix": 28420,
+        "tva": "0"
+    },
+    {
+        "designation": "KAMAGRA 100MG CP B/4",
+        "date_expiration": "7/31/23",
+        "prix": 11500,
+        "tva": "0"
+    },
+    {
+        "designation": "KELO COTE GEL SILICONE 15G",
+        "date_expiration": "7/31/23",
+        "prix": 56160,
+        "tva": "0"
+    },
+    {
+        "designation": "KELO COTE GEL SILICONE 6G",
+        "date_expiration": "9/30/24",
+        "prix": 35420,
+        "tva": "0"
+    },
+    {
+        "designation": "KENACORT RET 40 IM/LOC NEC B/1",
+        "date_expiration": "3/31/23",
+        "prix": 14500,
+        "tva": "0"
+    },
+    {
+        "designation": "KETODERM 2% CREME T/15G",
+        "date_expiration": "12/31/23",
+        "prix": 18600,
+        "tva": "0"
+    },
+    {
+        "designation": "KETOPROFENE BGR LP100MG CP/20",
+        "date_expiration": "5/31/24",
+        "prix": 14500,
+        "tva": "0"
+    },
+    {
+        "designation": "KETREL 0,05% CR T/30G",
+        "date_expiration": "5/31/23",
+        "prix": 69600,
+        "tva": "0"
+    },
+    {
+        "designation": "LACTAMOUSSE FL/125ML",
+        "date_expiration": "3/31/23",
+        "prix": 16800,
+        "tva": "7"
+    },
+    {
+        "designation": "LACTEOL 340MG GELU B/10",
+        "date_expiration": "5/31/23",
+        "prix": 31000,
+        "tva": "0"
+    },
+    {
+        "designation": "LAMISIL 1% CREME T/15G AFR",
+        "date_expiration": "5/31/23",
+        "prix": 32550,
+        "tva": "0"
+    },
+    {
+        "designation": "LANTUS SOLOSTAR 100U 3ML ST/5",
+        "date_expiration": "2/29/24",
+        "prix": 310000,
+        "tva": "0"
+    },
+    {
+        "designation": "LASILIX 40MG COMP B/30",
+        "date_expiration": "4/30/24",
+        "prix": 12600,
+        "tva": "0"
+    },
+    {
+        "designation": "LASILIX FAIBLE 20MG CP B/30",
+        "date_expiration": "2/29/24",
+        "prix": 8300,
+        "tva": "0"
+    },
+    {
+        "designation": "LCA HE ARBRE THE FL10ML BIO",
+        "date_expiration": "3/31/23",
+        "prix": 24700,
+        "tva": "7"
+    },
+    {
+        "designation": "LCB SAV MARS FLEU ORAN 1L",
+        "date_expiration": "1/31/23",
+        "prix": 29500,
+        "tva": "7"
+    },
+    {
+        "designation": "LEGALON 70MG CP B/40",
+        "date_expiration": "7/31/23",
+        "prix": 35900,
+        "tva": "0"
+    },
+    {
+        "designation": "LETROZOLE DENK 2,5MG B/30",
+        "date_expiration": "10/31/23",
+        "prix": 235000,
+        "tva": "0"
+    },
+    {
+        "designation": "LEVO DENK 250MG CP B/10",
+        "date_expiration": "4/30/23",
+        "prix": 22280,
+        "tva": "0"
+    },
+    {
+        "designation": "LEVOBACT 500MG CP B/10",
+        "date_expiration": "8/31/24",
+        "prix": 12370,
+        "tva": "0"
+    },
+    {
+        "designation": "LEVOBACT 750MG CP B/10",
+        "date_expiration": "4/30/24",
+        "prix": 26775,
+        "tva": "0"
+    },
+    {
+        "designation": "LEVOTHYROX 150 CP B/30",
+        "date_expiration": "3/31/23",
+        "prix": 14800,
+        "tva": "0"
+    },
+    {
+        "designation": "LEVOTHYROX 175 CP B/30",
+        "date_expiration": "8/31/23",
+        "prix": 17200,
+        "tva": "0"
+    },
+    {
+        "designation": "LEVOTHYROX 75 COMP B/30 AFR",
+        "date_expiration": "2/28/23",
+        "prix": 6945,
+        "tva": "0"
+    },
+    {
+        "designation": "LEVOTHYROX 75 CP B/30",
+        "date_expiration": "2/28/23",
+        "prix": 7402,
+        "tva": "0"
+    },
+    {
+        "designation": "LGH HOMEORYL GRAN ETUI/2",
+        "date_expiration": "4/30/23",
+        "prix": 21700,
+        "tva": "7"
+    },
+    {
+        "designation": "LIBIDO LADY CAPS BL 3X10",
+        "date_expiration": "5/31/23",
+        "prix": 99200,
+        "tva": "7"
+    },
+    {
+        "designation": "LIPANTHYL 200MG GELU B/30",
+        "date_expiration": "4/30/23",
+        "prix": 41900,
+        "tva": "0"
+    },
+    {
+        "designation": "LIPANTHYL 67 MIC GELULE B/60",
+        "date_expiration": "6/30/24",
+        "prix": 21300,
+        "tva": "0"
+    },
+    {
+        "designation": "LIPINORM 20MG CP B/28",
+        "date_expiration": "12/31/22",
+        "prix": 34700,
+        "tva": "0"
+    },
+    {
+        "designation": "LIPOSIC GEL OPHT T/10G",
+        "date_expiration": "12/31/22",
+        "prix": 10300,
+        "tva": "0"
+    },
+    {
+        "designation": "LISTERINE.FRAICH INT 500ML",
+        "date_expiration": "0/00/00",
+        "prix": 37700,
+        "tva": "7"
+    },
+    {
+        "designation": "LOCERYL 5% FL/2,5ML",
+        "date_expiration": "9/30/23",
+        "prix": 66500,
+        "tva": "0"
+    },
+    {
+        "designation": "LOMAC 20 GELLULE B20X10",
+        "date_expiration": "4/30/24",
+        "prix": 53000,
+        "tva": "0"
+    },
+    {
+        "designation": "LOMEXIN 2% CREME T/15G",
+        "date_expiration": "6/30/23",
+        "prix": 14720,
+        "tva": "0"
+    },
+    {
+        "designation": "LORATIN 5MG/5ML SIROP 100ML",
+        "date_expiration": "6/30/23",
+        "prix": 7000,
+        "tva": "0"
+    },
+    {
+        "designation": "LOT ALOE CHX BL SPR60ML CO522",
+        "date_expiration": "4/30/23",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "LOT DEMAQ GERA GINGEM 300ML",
+        "date_expiration": "11/30/22",
+        "prix": 9900,
+        "tva": "7"
+    },
+    {
+        "designation": "LOVENOX 4000UI S.INJ SER /2",
+        "date_expiration": "12/31/22",
+        "prix": 40000,
+        "tva": "0"
+    },
+    {
+        "designation": "LOXEN 10MG/10ML INJ AMP/5",
+        "date_expiration": "1/31/23",
+        "prix": 46000,
+        "tva": "0"
+    },
+    {
+        "designation": "LOXEN LP50MG GELU B/60",
+        "date_expiration": "2/29/24",
+        "prix": 78900,
+        "tva": "0"
+    },
+    {
+        "designation": "LT DEMAQ BAOBAB 150ML CO420",
+        "date_expiration": "5/31/22",
+        "prix": 8400,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB BABYS 1 BLEU HS589",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB BABYS 1 ORAN HS591",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB BABYS 1 ROSE HS590",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB BABYS 2 BLEU HS605",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB BABYS 2 POUR HS607",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB PAPIL HS501",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB S.ORGE 1 BLEU HS611",
+        "date_expiration": "0/00/00",
+        "prix": 42600,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB S.ORGE 1 ROSE HS612",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB S.ORGE 1 VERT HS613",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB S.ORGE 2 BLEU HS614",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "LUNET BB S.ORGE 2 ROSE HS615",
+        "date_expiration": "0/00/00",
+        "prix": 35500,
+        "tva": "7"
+    },
+    {
+        "designation": "MAALOX ME CIT SUSP4,3MLSAC/20",
+        "date_expiration": "2/29/24",
+        "prix": 15600,
+        "tva": "0"
+    },
+    {
+        "designation": "MAALOX ME MENT CP CROQ/40",
+        "date_expiration": "2/28/23",
+        "prix": 9350,
+        "tva": "0"
+    },
+    {
+        "designation": "MADEGLUCYL IMRA 30G",
+        "date_expiration": "10/31/23",
+        "prix": 4800,
+        "tva": "0"
+    },
+    {
+        "designation": "MADETONYL IMRA 125ML",
+        "date_expiration": "12/31/23",
+        "prix": 4250,
+        "tva": "0"
+    },
+    {
+        "designation": "MADETOXYL 125ML",
+        "date_expiration": "11/30/23",
+        "prix": 4800,
+        "tva": "0"
+    },
+    {
+        "designation": "MAG 2 100MG COMP B/60 AFR",
+        "date_expiration": "3/31/24",
+        "prix": 21700,
+        "tva": "0"
+    },
+    {
+        "designation": "MAG 2 AMP BUV SS 10ML B/30 AFR",
+        "date_expiration": "2/29/24",
+        "prix": 26500,
+        "tva": "0"
+    },
+    {
+        "designation": "MAGNES ACTIVE DENK STICK/30",
+        "date_expiration": "6/30/23",
+        "prix": 24000,
+        "tva": "7"
+    },
+    {
+        "designation": "MAGNES DIRECT DENK B/30",
+        "date_expiration": "7/31/23",
+        "prix": 29500,
+        "tva": "7"
+    },
+    {
+        "designation": "MAGNES-DENK 150 B/5X10",
+        "date_expiration": "2/28/23",
+        "prix": 23000,
+        "tva": "0"
+    },
+    {
+        "designation": "MALAVAN 120MG INJ B/1",
+        "date_expiration": "12/31/22",
+        "prix": 12000,
+        "tva": "0"
+    },
+    {
+        "designation": "M-ANTACID COMP BL/10X10",
+        "date_expiration": "4/30/22",
+        "prix": 14000,
+        "tva": "0"
+    },
+    {
+        "designation": "MASQ CHIR 3PLI MP B/50",
+        "date_expiration": "3/31/25",
+        "prix": 90000,
+        "tva": "0"
+    },
+    {
+        "designation": "MASY PAGYL IMRA 28G",
+        "date_expiration": "11/30/23",
+        "prix": 3650,
+        "tva": "0"
+    },
+    {
+        "designation": "MAVITRIKA IMRA 22G",
+        "date_expiration": "1/31/23",
+        "prix": 3600,
+        "tva": "0"
+    },
+    {
+        "designation": "M-CAPTOPRIL PLUS CP B/30",
+        "date_expiration": "10/31/22",
+        "prix": 9000,
+        "tva": "0"
+    },
+    {
+        "designation": "M-CETIRIZINE 10MG CP B/20",
+        "date_expiration": "6/30/23",
+        "prix": 6000,
+        "tva": "0"
+    },
+    {
+        "designation": "M-CIPROFLOXACINE 500MG CP B/10",
+        "date_expiration": "7/31/22",
+        "prix": 6350,
+        "tva": "0"
+    },
+    {
+        "designation": "M-DICLOFENAC 1% GEL DERM 30G",
+        "date_expiration": "9/30/22",
+        "prix": 5500,
+        "tva": "0"
+    },
+    {
+        "designation": "MEDROL 16MG CP B/20",
+        "date_expiration": "3/31/23",
+        "prix": 26200,
+        "tva": "0"
+    },
+    {
+        "designation": "MELADININE COMP B/30",
+        "date_expiration": "6/30/24",
+        "prix": 55000,
+        "tva": "0"
+    },
+    {
+        "designation": "MELANOV 80MG CP B/3X10",
+        "date_expiration": "4/30/24",
+        "prix": 16000,
+        "tva": "0"
+    },
+    {
+        "designation": "MELMET 500MG CP B/100",
+        "date_expiration": "5/31/23",
+        "prix": 14850,
+        "tva": "0"
+    },
+    {
+        "designation": "MET XL LP50MG CP/30",
+        "date_expiration": "5/31/23",
+        "prix": 21000,
+        "tva": "0"
+    },
+    {
+        "designation": "METEOSPASMYL CAPS MOL BLANC/20",
+        "date_expiration": "5/31/24",
+        "prix": 14970,
+        "tva": "0"
+    },
+    {
+        "designation": "METFORMIN DENK 500MG B/30",
+        "date_expiration": "10/31/25",
+        "prix": 5800,
+        "tva": "0"
+    },
+    {
+        "designation": "METFORMIN DENK 850MG B/30",
+        "date_expiration": "2/28/26",
+        "prix": 12750,
+        "tva": "0"
+    },
+    {
+        "designation": "METFORMIN DENK 850MG BL 15X8",
+        "date_expiration": "11/30/24",
+        "prix": 45900,
+        "tva": "0"
+    },
+    {
+        "designation": "M-GINKGO 40MG CP B/30",
+        "date_expiration": "7/31/22",
+        "prix": 12500,
+        "tva": "0"
+    },
+    {
+        "designation": "MICONAX CR T/30G",
+        "date_expiration": "9/30/23",
+        "prix": 2950,
+        "tva": "0"
+    },
+    {
+        "designation": "MICROLAX BB T/CAN 3ML B/4",
+        "date_expiration": "4/30/24",
+        "prix": 26000,
+        "tva": "0"
+    },
+    {
+        "designation": "MICROMOX 400MG COMP B/10",
+        "date_expiration": "9/30/23",
+        "prix": 21550,
+        "tva": "0"
+    },
+    {
+        "designation": "MICROVAL CP PLAQ B/1X28",
+        "date_expiration": "7/31/22",
+        "prix": 6400,
+        "tva": "0"
+    },
+    {
+        "designation": "MICROVAL CP PLAQ B/3X28",
+        "date_expiration": "5/31/23",
+        "prix": 17000,
+        "tva": "0"
+    },
+    {
+        "designation": "MILTON COMP EFF B/28",
+        "date_expiration": "12/31/23",
+        "prix": 14200,
+        "tva": "7"
+    },
+    {
+        "designation": "MILTON SPR NETT M.SURF 500ML",
+        "date_expiration": "11/30/22",
+        "prix": 15400,
+        "tva": "7"
+    },
+    {
+        "designation": "MINIDRIL CP PLAQ B/1X21",
+        "date_expiration": "3/31/23",
+        "prix": 8100,
+        "tva": "0"
+    },
+    {
+        "designation": "MINIDRIL CP PLAQ B/3X21",
+        "date_expiration": "9/30/22",
+        "prix": 20500,
+        "tva": "0"
+    },
+    {
+        "designation": "MINIRINMELT 60MCG LYOPH B/30",
+        "date_expiration": "11/30/24",
+        "prix": 94800,
+        "tva": "0"
+    },
+    {
+        "designation": "MIOREL GE 4MG GELU B/12 13ME",
+        "date_expiration": "12/31/23",
+        "prix": 15150,
+        "tva": "0"
+    },
+    {
+        "designation": "M-LOSARTAN 50MG CP B/30",
+        "date_expiration": "5/31/23",
+        "prix": 16350,
+        "tva": "0"
+    },
+    {
+        "designation": "M-METFORMINE PLUS CP B/30",
+        "date_expiration": "10/31/22",
+        "prix": 23000,
+        "tva": "0"
+    },
+    {
+        "designation": "M-MICONAZOLE CR DERM T/20G",
+        "date_expiration": "6/30/23",
+        "prix": 6200,
+        "tva": "0"
+    },
+    {
+        "designation": "M-NEOMYCINE 0,35% CR DERM 10G",
+        "date_expiration": "5/31/23",
+        "prix": 3780,
+        "tva": "0"
+    },
+    {
+        "designation": "MOBIC 7,5MG COMP B/14",
+        "date_expiration": "5/31/24",
+        "prix": 16000,
+        "tva": "0"
+    },
+    {
+        "designation": "MOBITIL 15MG CP/10",
+        "date_expiration": "3/31/23",
+        "prix": 19500,
+        "tva": "0"
+    },
+    {
+        "designation": "MODURETIC 5/50MG CP B/30",
+        "date_expiration": "10/31/22",
+        "prix": 10700,
+        "tva": "0"
+    },
+    {
+        "designation": "M-OMEPRAZOLE 20MG GEL B/14",
+        "date_expiration": "5/31/23",
+        "prix": 7500,
+        "tva": "0"
+    },
+    {
+        "designation": "MONAZOL 300MG OVULE B/1",
+        "date_expiration": "11/30/25",
+        "prix": 16850,
+        "tva": "0"
+    },
+    {
+        "designation": "MONOTILDIEM LP 300MG GELU B/28",
+        "date_expiration": "2/29/24",
+        "prix": 31000,
+        "tva": "0"
+    },
+    {
+        "designation": "M-OXACILLINE 500MG GEL B/24",
+        "date_expiration": "6/30/23",
+        "prix": 27930,
+        "tva": "0"
+    },
+    {
+        "designation": "M-SALBUTAMOL 100MG SPR 200DOS",
+        "date_expiration": "8/31/22",
+        "prix": 11300,
+        "tva": "0"
+    },
+    {
+        "designation": "M-SILYMARIN 140MG CP B/30",
+        "date_expiration": "10/31/23",
+        "prix": 21010,
+        "tva": "0"
+    },
+    {
+        "designation": "M-TD LP 20MG CP B/4",
+        "date_expiration": "7/31/22",
+        "prix": 15000,
+        "tva": "0"
+    },
+    {
+        "designation": "M-TRAMADOL PLUS CP B/20",
+        "date_expiration": "4/30/23",
+        "prix": 7000,
+        "tva": "0"
+    },
+    {
+        "designation": "MUCOMYST 200MG PDR SACH/18",
+        "date_expiration": "7/31/22",
+        "prix": 12000,
+        "tva": "0"
+    },
+    {
+        "designation": "MUXOL SOL BUV FL/180ML",
+        "date_expiration": "7/31/23",
+        "prix": 13200,
+        "tva": "0"
+    },
+    {
+        "designation": "MYDRIATICUM 0,5% CY F/10ML",
+        "date_expiration": "2/29/24",
+        "prix": 9350,
+        "tva": "0"
+    },
+    {
+        "designation": "MYLEUGYN LP 150MG OVU B/1",
+        "date_expiration": "9/30/23",
+        "prix": 13500,
+        "tva": "0"
+    },
+    {
+        "designation": "NASONEX 50MCG NAS 40DOS FL/1",
+        "date_expiration": "3/31/24",
+        "prix": 32500,
+        "tva": "0"
+    },
+    {
+        "designation": "NATRIXAM 1,5/10MG CP B/30 MD",
+        "date_expiration": "6/30/22",
+        "prix": 42950,
+        "tva": "0"
+    },
+    {
+        "designation": "NATRIXAM 1,5/5MG CP B/30 MD",
+        "date_expiration": "10/31/22",
+        "prix": 43100,
+        "tva": "0"
+    },
+    {
+        "designation": "NAXI BALM T/12G",
+        "date_expiration": "8/31/24",
+        "prix": 3500,
+        "tva": "0"
+    },
+    {
+        "designation": "NEBILONG 10MG CP B/30",
+        "date_expiration": "3/31/23",
+        "prix": 47700,
+        "tva": "0"
+    },
+    {
+        "designation": "NEBILONG 5MG CP B/30",
+        "date_expiration": "1/31/23",
+        "prix": 34200,
+        "tva": "0"
+    },
+    {
+        "designation": "NEULEPTIL 10MG BLIST GELU/50",
+        "date_expiration": "1/31/23",
+        "prix": 31500,
+        "tva": "0"
+    },
+    {
+        "designation": "NEULEPTIL 4% GTTE FL/30ML",
+        "date_expiration": "2/29/24",
+        "prix": 33620,
+        "tva": "0"
+    },
+    {
+        "designation": "NEURONTIN 300MG GELU B/90",
+        "date_expiration": "5/31/23",
+        "prix": 124500,
+        "tva": "0"
+    },
+    {
+        "designation": "NIFEDI DENK 10MG RET BL/10X10",
+        "date_expiration": "3/31/23",
+        "prix": 27810,
+        "tva": "0"
+    },
+    {
+        "designation": "NIFEDI DENK 20MG RET BL10X10",
+        "date_expiration": "10/31/23",
+        "prix": 40100,
+        "tva": "0"
+    },
+    {
+        "designation": "NIFLUGEL 2,5% GEL T/60G",
+        "date_expiration": "4/30/23",
+        "prix": 9900,
+        "tva": "0"
+    },
+    {
+        "designation": "NIFLURIL 700MG AD SUPPO B/8",
+        "date_expiration": "4/30/23",
+        "prix": 11500,
+        "tva": "0"
+    },
+    {
+        "designation": "NIFLURIL GELULE B/30",
+        "date_expiration": "6/30/23",
+        "prix": 10500,
+        "tva": "0"
+    },
+    {
+        "designation": "NO SPA 40MG CP B/100",
+        "date_expiration": "2/29/24",
+        "prix": 30900,
+        "tva": "0"
+    },
+    {
+        "designation": "NO SPA 40MG CP B/20",
+        "date_expiration": "8/31/23",
+        "prix": 8100,
+        "tva": "0"
+    },
+    {
+        "designation": "NO SPA 40MG INJ 2ML B/25",
+        "date_expiration": "4/30/23",
+        "prix": 27500,
+        "tva": "0"
+    },
+    {
+        "designation": "NO SPA 80MG CP B/20",
+        "date_expiration": "8/31/23",
+        "prix": 16520,
+        "tva": "0"
+    },
+    {
+        "designation": "NOLVADEX 20MG COMP B/30",
+        "date_expiration": "9/30/23",
+        "prix": 74170,
+        "tva": "0"
+    },
+    {
+        "designation": "NOOTROPYL 20% SOL BUV F/125ML",
+        "date_expiration": "2/29/24",
+        "prix": 14580,
+        "tva": "0"
+    },
+    {
+        "designation": "NOVAGRA 50MG CP B/4",
+        "date_expiration": "8/31/22",
+        "prix": 4550,
+        "tva": "0"
+    },
+    {
+        "designation": "NOVATEN 50MG COMP B/28",
+        "date_expiration": "11/30/24",
+        "prix": 8000,
+        "tva": "0"
+    },
+    {
+        "designation": "NOVATEN AM CP B/28",
+        "date_expiration": "11/30/24",
+        "prix": 41900,
+        "tva": "0"
+    },
+    {
+        "designation": "NOZINAN 100MG CP B/20",
+        "date_expiration": "3/31/24",
+        "prix": 37100,
+        "tva": "0"
+    },
+    {
+        "designation": "NOZINAN 25MG CP B/20",
+        "date_expiration": "1/31/24",
+        "prix": 15550,
+        "tva": "0"
+    },
+    {
+        "designation": "ODY FERY ANATY IMRA PDR 30G",
+        "date_expiration": "1/31/24",
+        "prix": 2280,
+        "tva": "0"
+    },
+    {
+        "designation": "ODY FERY MEVA IMRA 22G",
+        "date_expiration": "10/31/23",
+        "prix": 3650,
+        "tva": "0"
+    },
+    {
+        "designation": "ODY VATO 45 INFUS IMRA",
+        "date_expiration": "12/31/23",
+        "prix": 18340,
+        "tva": "0"
+    },
+    {
+        "designation": "OFLOCET 200MG CP B/10",
+        "date_expiration": "9/30/23",
+        "prix": 31500,
+        "tva": "0"
+    },
+    {
+        "designation": "OFLOCET GTT AUR UNIDOS/20",
+        "date_expiration": "2/29/24",
+        "prix": 26200,
+        "tva": "0"
+    },
+    {
+        "designation": "OLMAT 20MG CP B/30",
+        "date_expiration": "6/30/22",
+        "prix": 26700,
+        "tva": "0"
+    },
+    {
+        "designation": "OLMAT 40MG CP B/30",
+        "date_expiration": "6/30/22",
+        "prix": 31000,
+        "tva": "0"
+    },
+    {
+        "designation": "OMIX LP 0,4MG GELU B/30",
+        "date_expiration": "2/28/25",
+        "prix": 38000,
+        "tva": "0"
+    },
+    {
+        "designation": "OMIZEC 20MG GEL B/28",
+        "date_expiration": "12/31/23",
+        "prix": 21700,
+        "tva": "0"
+    },
+    {
+        "designation": "OMPRANYT 20MG GEL B/14",
+        "date_expiration": "8/31/23",
+        "prix": 26000,
+        "tva": "0"
+    },
+    {
+        "designation": "OPTICRON 2% CY FL/5ML",
+        "date_expiration": "7/31/23",
+        "prix": 16400,
+        "tva": "0"
+    },
+    {
+        "designation": "ORELOX 100MG CP B/10",
+        "date_expiration": "1/31/23",
+        "prix": 41640,
+        "tva": "0"
+    },
+    {
+        "designation": "ORELOX 200MG CP B/10",
+        "date_expiration": "7/31/23",
+        "prix": 48000,
+        "tva": "0"
+    },
+    {
+        "designation": "ORNILOX 200/500MG CP/10",
+        "date_expiration": "9/30/24",
+        "prix": 22000,
+        "tva": "0"
+    },
+    {
+        "designation": "OROKEN 200MG CP B/8",
+        "date_expiration": "10/31/22",
+        "prix": 44800,
+        "tva": "0"
+    },
+    {
+        "designation": "OROZAMUDOL 50MG GE CP B/10",
+        "date_expiration": "9/30/23",
+        "prix": 14500,
+        "tva": "0"
+    },
+    {
+        "designation": "OSSOPAN 600MG COMP B/30",
+        "date_expiration": "10/31/23",
+        "prix": 13500,
+        "tva": "0"
+    },
+    {
+        "designation": "OSTESAN JUN DENK B/30",
+        "date_expiration": "6/30/22",
+        "prix": 37000,
+        "tva": "7"
+    },
+    {
+        "designation": "OTOFA SOL AURIC FL/10ML",
+        "date_expiration": "8/31/23",
+        "prix": 13050,
+        "tva": "0"
+    },
+    {
+        "designation": "OTRIVINE 0,05% ENF GTE F/10ML",
+        "date_expiration": "3/31/23",
+        "prix": 7930,
+        "tva": "0"
+    },
+    {
+        "designation": "OTRIVINE 0,1% AD GTE NAS/10ML",
+        "date_expiration": "2/29/24",
+        "prix": 9930,
+        "tva": "0"
+    },
+    {
+        "designation": "OUATE SYNTH CELL 2,75MX7,5CM",
+        "date_expiration": "12/31/23",
+        "prix": 2285,
+        "tva": "0"
+    },
+    {
+        "designation": "PAIDOTERIN SP FL/100ML",
+        "date_expiration": "3/31/24",
+        "prix": 12350,
+        "tva": "0"
+    },
+    {
+        "designation": "PANA AMPLITU RESPIR 15ML",
+        "date_expiration": "5/31/23",
+        "prix": 10000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA ANTI MOUST SYN DIF 15ML",
+        "date_expiration": "8/31/23",
+        "prix": 10000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA ANTI TABAC SYN DIFF 15ML",
+        "date_expiration": "5/31/23",
+        "prix": 10000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA ANTIPIQUE F/10ML",
+        "date_expiration": "3/31/22",
+        "prix": 5000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA CLEF USB UA6",
+        "date_expiration": "0/00/00",
+        "prix": 84000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA DIFF ESSEN ULT SONI MARRO",
+        "date_expiration": "0/00/00",
+        "prix": 127000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA DODO TRANKIL 15ML",
+        "date_expiration": "5/31/23",
+        "prix": 10000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA FRAICH DYNA SYN DIFF 15ML",
+        "date_expiration": "5/31/23",
+        "prix": 10000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA IMMU IMMUNITE CP B/30",
+        "date_expiration": "5/31/23",
+        "prix": 41200,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA JAMBES LEG GEL 100ML",
+        "date_expiration": "0/00/00",
+        "prix": 43000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA KAODOL SPR 100ML",
+        "date_expiration": "8/31/22",
+        "prix": 27000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA MINC RAFFERM GEL 100ML",
+        "date_expiration": "0/00/00",
+        "prix": 43000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA MINC RAFFERM HUIL 100ML",
+        "date_expiration": "0/00/00",
+        "prix": 40000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA MOSTIKO 100% NAT FL/100ML",
+        "date_expiration": "0/00/00",
+        "prix": 34000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA NOMICROB SPR ASSAI 150ML",
+        "date_expiration": "2/28/23",
+        "prix": 42500,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA PARF MORIS SPR 50ML",
+        "date_expiration": "9/30/22",
+        "prix": 30400,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA PERFORM SPORT GEL 100ML",
+        "date_expiration": "0/00/00",
+        "prix": 43000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA PHYTOCALM POMMADE 30ML",
+        "date_expiration": "0/00/00",
+        "prix": 27000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA RELAX/SOM 15ML",
+        "date_expiration": "8/31/23",
+        "prix": 10000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA TONUS VITA CP B/15",
+        "date_expiration": "9/30/23",
+        "prix": 34000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANA ZARDIN PAMPL SPR 50ML",
+        "date_expiration": "9/30/22",
+        "prix": 30400,
+        "tva": "7"
+    },
+    {
+        "designation": "PANACEUM HUILE SOIN 100ML",
+        "date_expiration": "0/00/00",
+        "prix": 40000,
+        "tva": "7"
+    },
+    {
+        "designation": "PANOTILE GTTE AURIC FL/8ML",
+        "date_expiration": "4/30/22",
+        "prix": 6500,
+        "tva": "0"
+    },
+    {
+        "designation": "PANTO DENK 20MG CP B/2X14",
+        "date_expiration": "3/31/24",
+        "prix": 31200,
+        "tva": "0"
+    },
+    {
+        "designation": "PANTO DENK 40MG CP B/2X14",
+        "date_expiration": "2/29/24",
+        "prix": 44200,
+        "tva": "0"
+    },
+    {
+        "designation": "PANTOPRAZOLE BGR 40MG CP B/28",
+        "date_expiration": "5/31/24",
+        "prix": 22897.12,
+        "tva": "0"
+    },
+    {
+        "designation": "PANTOTAB 40MG CP B/30",
+        "date_expiration": "7/31/23",
+        "prix": 19700,
+        "tva": "0"
+    },
+    {
+        "designation": "PARA DENK 125 SUPPO B/10",
+        "date_expiration": "9/30/23",
+        "prix": 4750,
+        "tva": "0"
+    },
+    {
+        "designation": "PARACETAMOL BGR 500 CP EFF /16",
+        "date_expiration": "5/31/24",
+        "prix": 4920,
+        "tva": "0"
+    },
+    {
+        "designation": "PARACO DENK 1000/60 SUPPO B/10",
+        "date_expiration": "9/30/25",
+        "prix": 23800,
+        "tva": "0"
+    },
+    {
+        "designation": "PARACO DENK 500/30 CP B/20",
+        "date_expiration": "5/31/24",
+        "prix": 12165,
+        "tva": "0"
+    },
+    {
+        "designation": "PARAFLAM 400/325MG CP B/10",
+        "date_expiration": "6/30/23",
+        "prix": 3700,
+        "tva": "0"
+    },
+    {
+        "designation": "PASSEDYL ENF/BB SP FL/125ML",
+        "date_expiration": "11/30/23",
+        "prix": 11000,
+        "tva": "0"
+    },
+    {
+        "designation": "PEITEL 0,25% CR T/30G",
+        "date_expiration": "4/30/24",
+        "prix": 20680,
+        "tva": "0"
+    },
+    {
+        "designation": "PENTASA 500MG LP CP B/100",
+        "date_expiration": "8/31/23",
+        "prix": 210000,
+        "tva": "0"
+    },
+    {
+        "designation": "PENTAXIM SER B/1",
+        "date_expiration": "12/31/22",
+        "prix": 128500,
+        "tva": "0"
+    },
+    {
+        "designation": "PERFALGAN AD 10MG/ML 1G B/12",
+        "date_expiration": "8/31/22",
+        "prix": 120000,
+        "tva": "0"
+    },
+    {
+        "designation": "PERFUSEUR STER DIDA+AIG LUER/1",
+        "date_expiration": "0/00/00",
+        "prix": 1350,
+        "tva": "0"
+    },
+    {
+        "designation": "PERIACTINE 4MG COMP B/30",
+        "date_expiration": "5/31/24",
+        "prix": 26300,
+        "tva": "0"
+    },
+    {
+        "designation": "PERISPAM 80MG CP ORO B/30",
+        "date_expiration": "4/30/23",
+        "prix": 16500,
+        "tva": "0"
+    },
+    {
+        "designation": "PEVARYL 1% CREME DERM T/30G",
+        "date_expiration": "9/30/22",
+        "prix": 14900,
+        "tva": "0"
+    },
+    {
+        "designation": "PEVARYL 1% EMULS FLUID FL/30ML",
+        "date_expiration": "12/31/22",
+        "prix": 16350,
+        "tva": "0"
+    },
+    {
+        "designation": "PEVARYL 1% PDRE FL PDREUR/30G",
+        "date_expiration": "11/30/23",
+        "prix": 29200,
+        "tva": "0"
+    },
+    {
+        "designation": "PEVARYL 1% SOL EXT F PULV/30G",
+        "date_expiration": "10/31/23",
+        "prix": 25000,
+        "tva": "0"
+    },
+    {
+        "designation": "PHARMATEX OVULE B/10",
+        "date_expiration": "4/30/23",
+        "prix": 25000,
+        "tva": "0"
+    },
+    {
+        "designation": "PHENERGAN 2% CREME T/30G",
+        "date_expiration": "3/31/23",
+        "prix": 9600,
+        "tva": "0"
+    },
+    {
+        "designation": "PHLORO-G 80MG CP ORO B/10",
+        "date_expiration": "3/31/23",
+        "prix": 10900,
+        "tva": "0"
+    },
+    {
+        "designation": "PHYSIOLAC 1ER AGE 800G",
+        "date_expiration": "5/31/23",
+        "prix": 61500,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYSIOLAC 2EME AGE 800G",
+        "date_expiration": "6/30/23",
+        "prix": 54600,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYSIOLAC BIO 3 B/800G CERTBIO",
+        "date_expiration": "1/31/23",
+        "prix": 82900,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYSIOLAC LAIT BIO 1AGE B/800G",
+        "date_expiration": "12/31/23",
+        "prix": 89500,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYSIOLAC LAIT BIO 2AGE B/800G",
+        "date_expiration": "1/31/23",
+        "prix": 86980,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYTO GRAS CHOL INFUS/10 PP319",
+        "date_expiration": "12/31/22",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYTO MINCEUR INFUS /10 PP322",
+        "date_expiration": "0/00/00",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYTO PROSTATE INUS B/10 PP311",
+        "date_expiration": "2/28/23",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYTO RHUMATIS INFUS /10 PP313",
+        "date_expiration": "0/00/00",
+        "prix": 4500,
+        "tva": "7"
+    },
+    {
+        "designation": "PHYTORAL SHAMPOOING 2% 100ML",
+        "date_expiration": "5/31/23",
+        "prix": 13800,
+        "tva": "0"
+    },
+    {
+        "designation": "PILL 72 CP B/2",
+        "date_expiration": "3/31/23",
+        "prix": 7300,
+        "tva": "0"
+    },
+    {
+        "designation": "PIPRAM FORT 400MG COMP B/10",
+        "date_expiration": "5/31/23",
+        "prix": 23800,
+        "tva": "0"
+    },
+    {
+        "designation": "PIVALONE 1% GTE NAS F/10ML",
+        "date_expiration": "1/31/23",
+        "prix": 13350,
+        "tva": "0"
+    },
+    {
+        "designation": "PLAVIX 75MG CP B/28 AFR",
+        "date_expiration": "3/31/24",
+        "prix": 122000,
+        "tva": "0"
+    },
+    {
+        "designation": "PNEUMOKOF SP FL/100ML",
+        "date_expiration": "8/31/24",
+        "prix": 8390,
+        "tva": "0"
+    },
+    {
+        "designation": "POIGN LIGAFLEX MANU T1D NOIR",
+        "date_expiration": "0/00/00",
+        "prix": 109500,
+        "tva": "0"
+    },
+    {
+        "designation": "POIGN LIGAFLEX MANU T3D NOIR",
+        "date_expiration": "0/00/00",
+        "prix": 109500,
+        "tva": "0"
+    },
+    {
+        "designation": "POIGN LIGAFLEX MANU T3G NOIR",
+        "date_expiration": "0/00/00",
+        "prix": 109500,
+        "tva": "0"
+    },
+    {
+        "designation": "POIRE LAV+CAN N12 320ML SALV",
+        "date_expiration": "0/00/00",
+        "prix": 45500,
+        "tva": "0"
+    },
+    {
+        "designation": "POLYGYNAX CAPS VAG/12",
+        "date_expiration": "4/30/22",
+        "prix": 21990,
+        "tva": "0"
+    },
+    {
+        "designation": "POLYGYNAX CAPS VAG/6 710352",
+        "date_expiration": "6/30/23",
+        "prix": 12900,
+        "tva": "0"
+    },
+    {
+        "designation": "POLYGYNAX VIRGO CAPS VAG/6",
+        "date_expiration": "11/30/22",
+        "prix": 12400,
+        "tva": "0"
+    },
+    {
+        "designation": "POMMADE HEC NAS DERMIQUE T/25G",
+        "date_expiration": "2/28/23",
+        "prix": 53910,
+        "tva": "0"
+    },
+    {
+        "designation": "POTENCIATOR 5G AMP BUV B/20",
+        "date_expiration": "9/30/23",
+        "prix": 24300,
+        "tva": "0"
+    },
+    {
+        "designation": "POUXIT LOTION ANTI POUX 100ML",
+        "date_expiration": "6/30/25",
+        "prix": 35600,
+        "tva": "7"
+    },
+    {
+        "designation": "PREDNISOLONE 20MG B/100",
+        "date_expiration": "4/30/24",
+        "prix": 20700,
+        "tva": "0"
+    },
+    {
+        "designation": "PRENATAL DENK B/30",
+        "date_expiration": "9/30/22",
+        "prix": 26400,
+        "tva": "7"
+    },
+    {
+        "designation": "PRESENTOIR CABANE",
+        "date_expiration": "0/00/00",
+        "prix": 108150,
+        "tva": "7"
+    },
+    {
+        "designation": "PRETERAX 2,5MG/0,625MG B/30 MD",
+        "date_expiration": "10/31/23",
+        "prix": 43900,
+        "tva": "0"
+    },
+    {
+        "designation": "PREVISCAN 20MG COMP B/30",
+        "date_expiration": "10/31/22",
+        "prix": 18700,
+        "tva": "0"
+    },
+    {
+        "designation": "PRIMALAN 5MG COMP B/14 AFR",
+        "date_expiration": "3/31/24",
+        "prix": 13300,
+        "tva": "0"
+    },
+    {
+        "designation": "PRIMPERAN 10MG INJ 2ML B/12",
+        "date_expiration": "1/31/24",
+        "prix": 29000,
+        "tva": "0"
+    },
+    {
+        "designation": "PROCORALAN 5MG B/56 MD",
+        "date_expiration": "2/28/23",
+        "prix": 167500,
+        "tva": "0"
+    },
+    {
+        "designation": "PROCORALAN 7,5MG B/56 MD",
+        "date_expiration": "10/31/23",
+        "prix": 168650,
+        "tva": "0"
+    },
+    {
+        "designation": "PROFEMIGR 150MG CP B/10",
+        "date_expiration": "3/31/23",
+        "prix": 12900,
+        "tva": "0"
+    },
+    {
+        "designation": "PROFENAC GEL 30G",
+        "date_expiration": "12/31/23",
+        "prix": 4075,
+        "tva": "0"
+    },
+    {
+        "designation": "PROPRANOLOL BGR 40MG CP B/50",
+        "date_expiration": "0/00/00",
+        "prix": 7500,
+        "tva": "0"
+    },
+    {
+        "designation": "PROPRANOLOL TEV LP160MG GEL/30",
+        "date_expiration": "9/30/25",
+        "prix": 31000,
+        "tva": "0"
+    },
+    {
+        "designation": "PROZAC 20MG GELU B/14",
+        "date_expiration": "1/31/24",
+        "prix": 21500,
+        "tva": "0"
+    },
+    {
+        "designation": "PULMOCEF 250MG B/10",
+        "date_expiration": "6/30/23",
+        "prix": 12000,
+        "tva": "0"
+    },
+    {
+        "designation": "PULMOKOF SP FL/100ML",
+        "date_expiration": "2/29/24",
+        "prix": 7350,
+        "tva": "0"
+    },
+    {
+        "designation": "PYOSTACINE 500MG CP B/16",
+        "date_expiration": "10/31/24",
+        "prix": 101000,
+        "tva": "0"
+    },
+    {
+        "designation": "PYRALVEX SOL FL/10ML",
+        "date_expiration": "11/30/23",
+        "prix": 20850,
+        "tva": "0"
+    },
+    {
+        "designation": "QUIES BOULES B/8X2",
+        "date_expiration": "7/31/28",
+        "prix": 18800,
+        "tva": "7"
+    },
+    {
+        "designation": "RHINOCORT 64MCG SUSP120D F10ML",
+        "date_expiration": "5/31/22",
+        "prix": 20000,
+        "tva": "0"
+    },
+    {
+        "designation": "RINIALER 10MG CP B/20",
+        "date_expiration": "5/31/23",
+        "prix": 40000,
+        "tva": "0"
+    },
+    {
+        "designation": "ROCEPHINE 1G AMP IV B/1",
+        "date_expiration": "10/31/23",
+        "prix": 40000,
+        "tva": "0"
+    },
+    {
+        "designation": "ROCMALINE AMP BUV 10ML B/20",
+        "date_expiration": "4/30/24",
+        "prix": 23150,
+        "tva": "0"
+    },
+    {
+        "designation": "ROSUVASTATIN DENK 5MG BL/3X10",
+        "date_expiration": "6/30/22",
+        "prix": 27320,
+        "tva": "0"
+    },
+    {
+        "designation": "ROVAMYCINE 1,5MUI CP B/16",
+        "date_expiration": "4/30/24",
+        "prix": 23600,
+        "tva": "0"
+    },
+    {
+        "designation": "RULID 150MG CP B/10",
+        "date_expiration": "7/31/23",
+        "prix": 42800,
+        "tva": "0"
+    },
+    {
+        "designation": "S.ZINC CP B/2X10",
+        "date_expiration": "6/30/23",
+        "prix": 7500,
+        "tva": "7"
+    },
+    {
+        "designation": "SAFORELLE CR T/50ML",
+        "date_expiration": "6/30/23",
+        "prix": 19700,
+        "tva": "0"
+    },
+    {
+        "designation": "SANMIGRAN 0,5MG CP B/50",
+        "date_expiration": "2/29/24",
+        "prix": 29000,
+        "tva": "0"
+    },
+    {
+        "designation": "SARGENOR S/SUC 1G CP EFF B/20",
+        "date_expiration": "6/30/23",
+        "prix": 21500,
+        "tva": "0"
+    },
+    {
+        "designation": "SARGENOR VIT C COMP EFF /20",
+        "date_expiration": "6/30/23",
+        "prix": 24800,
+        "tva": "0"
+    },
+    {
+        "designation": "SAV CAMAY TEH VERT 70G CO247",
+        "date_expiration": "0/00/00",
+        "prix": 4100,
+        "tva": "7"
+    },
+    {
+        "designation": "SAV PALET BAOBAB 40G CO243",
+        "date_expiration": "0/00/00",
+        "prix": 2700,
+        "tva": "7"
+    },
+    {
+        "designation": "SAVON SOA AMINCISSANT 60G",
+        "date_expiration": "0/00/00",
+        "prix": 3800,
+        "tva": "7"
+    },
+    {
+        "designation": "SAVON SOA CORPS 60G",
+        "date_expiration": "4/30/23",
+        "prix": 3850,
+        "tva": "7"
+    },
+    {
+        "designation": "SAVON SOA CUIR CHEVELU 60G",
+        "date_expiration": "4/30/23",
+        "prix": 3800,
+        "tva": "7"
+    },
+    {
+        "designation": "SAVON SOA MAVANA 60G",
+        "date_expiration": "0/00/00",
+        "prix": 3800,
+        "tva": "7"
+    },
+    {
+        "designation": "SAVON SOA REPOUSSE 60G",
+        "date_expiration": "2/28/23",
+        "prix": 3600,
+        "tva": "7"
+    },
+    {
+        "designation": "SECNOL 2G GRAN SACH/1",
+        "date_expiration": "12/31/23",
+        "prix": 17480,
+        "tva": "0"
+    },
+    {
+        "designation": "SECTRAL 200MG COMP B/30",
+        "date_expiration": "11/30/23",
+        "prix": 29000,
+        "tva": "0"
+    },
+    {
+        "designation": "SECTRAL 400MG COMP B/30",
+        "date_expiration": "5/31/23",
+        "prix": 34900,
+        "tva": "0"
+    },
+    {
+        "designation": "SEMELLES PEDIPRO PLUS T3",
+        "date_expiration": "0/00/00",
+        "prix": 115300,
+        "tva": "0"
+    },
+    {
+        "designation": "SEMELLES PEDIPRO PLUS T4",
+        "date_expiration": "0/00/00",
+        "prix": 115300,
+        "tva": "0"
+    },
+    {
+        "designation": "SEMELLES PEDIPRO T4",
+        "date_expiration": "0/00/00",
+        "prix": 80000,
+        "tva": "0"
+    },
+    {
+        "designation": "SER INS AIG 0,5ML /100",
+        "date_expiration": "0/00/00",
+        "prix": 58700,
+        "tva": "0"
+    },
+    {
+        "designation": "SER INS+AIG EMG29/1001ML103335",
+        "date_expiration": "6/30/24",
+        "prix": 58700,
+        "tva": "0"
+    },
+    {
+        "designation": "SER+AIG 10ML MEDIT 21GX1 B/100",
+        "date_expiration": "8/31/25",
+        "prix": 40000,
+        "tva": "0"
+    },
+    {
+        "designation": "SER+AIG 5ML MEDIT 21GX1 B/100",
+        "date_expiration": "8/31/25",
+        "prix": 31000,
+        "tva": "0"
+    },
+    {
+        "designation": "SERETIDE DISKUS 250/50 60DOSES",
+        "date_expiration": "3/31/23",
+        "prix": 57850,
+        "tva": "0"
+    },
+    {
+        "designation": "SERETIDE DISKUS 500/50 60DOSES",
+        "date_expiration": "5/31/23",
+        "prix": 61950,
+        "tva": "0"
+    },
+    {
+        "designation": "SERING INS 01ML +AIG 29G P/100",
+        "date_expiration": "0/00/00",
+        "prix": 29000,
+        "tva": "0"
+    },
+    {
+        "designation": "SERUM GLUC 10% F/500ML",
+        "date_expiration": "12/31/23",
+        "prix": 2650,
+        "tva": "0"
+    },
+    {
+        "designation": "SERUM GLUC 5% F/500ML",
+        "date_expiration": "8/31/24",
+        "prix": 2680,
+        "tva": "0"
+    },
+    {
+        "designation": "SERUM SALE 0,9% F/500ML",
+        "date_expiration": "8/31/24",
+        "prix": 2600,
+        "tva": "0"
+    },
+    {
+        "designation": "SHAMP POUX HE NIAOULI 300ML",
+        "date_expiration": "3/31/23",
+        "prix": 11300,
+        "tva": "7"
+    },
+    {
+        "designation": "SHAMPO HUIL VE AVO COCO 300ML",
+        "date_expiration": "0/00/00",
+        "prix": 11300,
+        "tva": "7"
+    },
+    {
+        "designation": "SILDENAX 50 CP B/4",
+        "date_expiration": "8/31/23",
+        "prix": 2690,
+        "tva": "0"
+    },
+    {
+        "designation": "SIMVA DENK 20MG CP B/30",
+        "date_expiration": "7/31/23",
+        "prix": 31800,
+        "tva": "0"
+    },
+    {
+        "designation": "SIMVA DENK 40MG CP B/30",
+        "date_expiration": "4/30/23",
+        "prix": 50810,
+        "tva": "0"
+    },
+    {
+        "designation": "SINTROM 4MG COMP B/30",
+        "date_expiration": "9/30/25",
+        "prix": 13500,
+        "tva": "0"
+    },
+    {
+        "designation": "SKILAX GTTE FL/15ML",
+        "date_expiration": "11/30/23",
+        "prix": 8700,
+        "tva": "0"
+    },
+    {
+        "designation": "SODIUM BIC B/250G CPF",
+        "date_expiration": "1/31/25",
+        "prix": 8000,
+        "tva": "7"
+    },
+    {
+        "designation": "SODIUM CHL 10% 10ML CPF/10 AFR",
+        "date_expiration": "2/28/26",
+        "prix": 24000,
+        "tva": "0"
+    },
+    {
+        "designation": "SOLUFORM CALCIUM + VIT C B/20",
+        "date_expiration": "11/30/23",
+        "prix": 9800,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUFORM FER+AC FOLIC ACID /20",
+        "date_expiration": "7/31/22",
+        "prix": 6500,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUFORM MAG+VIT B6 B/20",
+        "date_expiration": "11/30/22",
+        "prix": 9900,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUFORM MULTI VIT+MIN B/20",
+        "date_expiration": "9/30/23",
+        "prix": 12400,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUFORM TONUS VITALITE B/20",
+        "date_expiration": "1/31/24",
+        "prix": 18300,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUTION HYDROALC 125ML",
+        "date_expiration": "0/00/00",
+        "prix": 5100,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUTION HYDROALC 150ML SPRAY",
+        "date_expiration": "0/00/00",
+        "prix": 4190,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUTION HYDROALC 1L",
+        "date_expiration": "0/00/00",
+        "prix": 22500,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUTION HYDROALC 500ML",
+        "date_expiration": "0/00/00",
+        "prix": 11500,
+        "tva": "7"
+    },
+    {
+        "designation": "SOLUTION HYDROALC FL/500ML",
+        "date_expiration": "4/30/22",
+        "prix": 7950,
+        "tva": "7"
+    },
+    {
+        "designation": "SOND FOLEY LAT 174802 CH16 /10",
+        "date_expiration": "9/30/25",
+        "prix": 38000,
+        "tva": "0"
+    },
+    {
+        "designation": "SOTALEX 160MG CP B/30",
+        "date_expiration": "12/31/22",
+        "prix": 24900,
+        "tva": "0"
+    },
+    {
+        "designation": "SOTALEX 80MG CP B/30",
+        "date_expiration": "8/31/23",
+        "prix": 13600,
+        "tva": "0"
+    },
+    {
+        "designation": "SPARADRAP PERF PHD 5CMX5M /1",
+        "date_expiration": "0/00/00",
+        "prix": 9150,
+        "tva": "0"
+    },
+    {
+        "designation": "SPASFON LYOC ORAL 80MG B/10",
+        "date_expiration": "8/31/24",
+        "prix": 12900,
+        "tva": "0"
+    },
+    {
+        "designation": "SPASFON SUPPO B/10",
+        "date_expiration": "11/30/23",
+        "prix": 13250,
+        "tva": "0"
+    },
+    {
+        "designation": "SPIFEN 400MG COMP B/20",
+        "date_expiration": "9/30/23",
+        "prix": 10600,
+        "tva": "0"
+    },
+    {
+        "designation": "STABLON 12,5MG COMP B/30 MD",
+        "date_expiration": "4/30/23",
+        "prix": 46400,
+        "tva": "0"
+    },
+    {
+        "designation": "STAMINA GELU B/30 MD",
+        "date_expiration": "3/31/24",
+        "prix": 34000,
+        "tva": "0"
+    },
+    {
+        "designation": "STAR BALM COLD SPRAY 150ML",
+        "date_expiration": "2/28/23",
+        "prix": 22500,
+        "tva": "7"
+    },
+    {
+        "designation": "STAR BALM FAST COLD PACKS",
+        "date_expiration": "4/30/22",
+        "prix": 8500,
+        "tva": "7"
+    },
+    {
+        "designation": "STAR BALM ROLLON",
+        "date_expiration": "1/31/23",
+        "prix": 21000,
+        "tva": "7"
+    },
+    {
+        "designation": "STAR BALM SPORT TAPE 3,8X10M/1",
+        "date_expiration": "0/00/00",
+        "prix": 22500,
+        "tva": "7"
+    },
+    {
+        "designation": "STERIMAR NEZ SUJET RHUME 100ML",
+        "date_expiration": "10/31/23",
+        "prix": 36970,
+        "tva": "7"
+    },
+    {
+        "designation": "STERIMAR NEZ SUJET RHUME 50ML",
+        "date_expiration": "11/30/23",
+        "prix": 23295,
+        "tva": "7"
+    },
+    {
+        "designation": "STEROGYL 15A SOL ALC AMP BUV/1",
+        "date_expiration": "1/31/23",
+        "prix": 6260,
+        "tva": "0"
+    },
+    {
+        "designation": "STEROGYL 15H SOL HUIL BV/INJ/1",
+        "date_expiration": "11/30/24",
+        "prix": 7200,
+        "tva": "0"
+    },
+    {
+        "designation": "STEROGYL 2M GTE F/20ML",
+        "date_expiration": "4/30/26",
+        "prix": 9200,
+        "tva": "0"
+    },
+    {
+        "designation": "STILNOX 10MG CP B/20 AFR",
+        "date_expiration": "2/28/25",
+        "prix": 24500,
+        "tva": "0"
+    },
+    {
+        "designation": "STIMOL A.BUV 10ML B/18 AFR",
+        "date_expiration": "3/31/24",
+        "prix": 24500,
+        "tva": "0"
+    },
+    {
+        "designation": "STRESAM GELU FL/24",
+        "date_expiration": "2/29/24",
+        "prix": 12000,
+        "tva": "0"
+    },
+    {
+        "designation": "SUPPO CRISTAL CPF ENF B/10",
+        "date_expiration": "5/31/24",
+        "prix": 8700,
+        "tva": "0"
+    },
+    {
+        "designation": "SURGAM 200MG COMP B/15",
+        "date_expiration": "5/31/24",
+        "prix": 7200,
+        "tva": "0"
+    },
+    {
+        "designation": "SURMONTIL 100MG COMP B/20",
+        "date_expiration": "12/31/23",
+        "prix": 62000,
+        "tva": "0"
+    },
+    {
+        "designation": "SURMONTIL 4% GTTE FL/30ML",
+        "date_expiration": "11/30/23",
+        "prix": 39390,
+        "tva": "0"
+    },
+    {
+        "designation": "TADENAN 50MG CAPS B/60",
+        "date_expiration": "8/31/23",
+        "prix": 124500,
+        "tva": "0"
+    },
+    {
+        "designation": "TAHOR 40MG COMP B/28",
+        "date_expiration": "2/28/23",
+        "prix": 60000,
+        "tva": "0"
+    },
+    {
+        "designation": "TAMPONS ALCOOL 70% 148102 /100",
+        "date_expiration": "7/31/24",
+        "prix": 7100,
+        "tva": "0"
+    },
+    {
+        "designation": "TANAKAN GTTE BUV FL/30ML",
+        "date_expiration": "2/29/24",
+        "prix": 29500,
+        "tva": "0"
+    },
+    {
+        "designation": "TAREG 160MG COMP B/28 AFR",
+        "date_expiration": "2/29/24",
+        "prix": 72400,
+        "tva": "0"
+    },
+    {
+        "designation": "TEGRETOL 2% SUSP FL/150ML",
+        "date_expiration": "3/31/24",
+        "prix": 13560,
+        "tva": "0"
+    },
+    {
+        "designation": "TEGRETOL 200MG COMP B/50",
+        "date_expiration": "7/31/23",
+        "prix": 16800,
+        "tva": "0"
+    },
+    {
+        "designation": "TEGRETOL LP 200MG COMP B/30",
+        "date_expiration": "2/28/23",
+        "prix": 15850,
+        "tva": "0"
+    },
+    {
+        "designation": "TENORMINE 50MG CP B/30",
+        "date_expiration": "11/30/23",
+        "prix": 16900,
+        "tva": "0"
+    },
+    {
+        "designation": "TERCIAN 25MG COMP B/30",
+        "date_expiration": "9/30/22",
+        "prix": 32000,
+        "tva": "0"
+    },
+    {
+        "designation": "TERGYNAN CP GYNECO NF B/10",
+        "date_expiration": "10/31/24",
+        "prix": 13990,
+        "tva": "0"
+    },
+    {
+        "designation": "TEST GLUC BLOOD AGM4000 /1",
+        "date_expiration": "3/31/22",
+        "prix": 92000,
+        "tva": "0"
+    },
+    {
+        "designation": "TEST GLUC BLOOD CE0123 BAND/50",
+        "date_expiration": "3/31/22",
+        "prix": 27000,
+        "tva": "7"
+    },
+    {
+        "designation": "TETINE BEBI B ROND 1 SIL24398",
+        "date_expiration": "0/00/00",
+        "prix": 15700,
+        "tva": "7"
+    },
+    {
+        "designation": "TETINE BEBI B ROND 3 SIL24400",
+        "date_expiration": "0/00/00",
+        "prix": 15700,
+        "tva": "7"
+    },
+    {
+        "designation": "TETINE BEBI B ROND X SIL24401",
+        "date_expiration": "0/00/00",
+        "prix": 15700,
+        "tva": "7"
+    },
+    {
+        "designation": "THIOBACTIN 500MG CP B/24",
+        "date_expiration": "11/30/23",
+        "prix": 41350,
+        "tva": "0"
+    },
+    {
+        "designation": "THYMAIR DENK CP B/2X10",
+        "date_expiration": "5/31/22",
+        "prix": 23650,
+        "tva": "7"
+    },
+    {
+        "designation": "TILCOTIL 20MG CP B/15",
+        "date_expiration": "6/30/24",
+        "prix": 19000,
+        "tva": "0"
+    },
+    {
+        "designation": "TIORFAN 100MG GELU B/20",
+        "date_expiration": "5/31/23",
+        "prix": 20700,
+        "tva": "0"
+    },
+    {
+        "designation": "TIORFAN 10MG BB SACH B/16",
+        "date_expiration": "1/31/23",
+        "prix": 21400,
+        "tva": "0"
+    },
+    {
+        "designation": "TIRE LAIT ATMOSPH AV POIRE CPF",
+        "date_expiration": "1/31/26",
+        "prix": 64600,
+        "tva": "0"
+    },
+    {
+        "designation": "TIS RICHTER CONSTIP SACH B/20",
+        "date_expiration": "8/31/23",
+        "prix": 15800,
+        "tva": "7"
+    },
+    {
+        "designation": "TOCO 500 CAPS B/30",
+        "date_expiration": "11/30/24",
+        "prix": 14900,
+        "tva": "0"
+    },
+    {
+        "designation": "TOFRANIL 25MG COMP B/100",
+        "date_expiration": "6/30/24",
+        "prix": 20400,
+        "tva": "0"
+    },
+    {
+        "designation": "TOPALGIC LP 100MG COMP B/30",
+        "date_expiration": "1/31/26",
+        "prix": 38600,
+        "tva": "0"
+    },
+    {
+        "designation": "TORAS DENK 10 B/3X10",
+        "date_expiration": "4/30/23",
+        "prix": 32014,
+        "tva": "0"
+    },
+    {
+        "designation": "TORSINEX 20MG B/30",
+        "date_expiration": "2/29/24",
+        "prix": 16000,
+        "tva": "0"
+    },
+    {
+        "designation": "TOTHEMA AMP BUV 10ML B/20",
+        "date_expiration": "12/31/22",
+        "prix": 20300,
+        "tva": "0"
+    },
+    {
+        "designation": "TRAMADOL DENK 100MG/2ML X5",
+        "date_expiration": "7/31/23",
+        "prix": 14640,
+        "tva": "0"
+    },
+    {
+        "designation": "TRAMADOL DENK 50MG CP EFF B/10",
+        "date_expiration": "11/30/23",
+        "prix": 13900,
+        "tva": "0"
+    },
+    {
+        "designation": "TRAMAPA 37,5MG/325MG CP B/20",
+        "date_expiration": "10/31/23",
+        "prix": 8380,
+        "tva": "0"
+    },
+    {
+        "designation": "TRANDATE 200MG COMP B/30",
+        "date_expiration": "7/31/25",
+        "prix": 28195,
+        "tva": "0"
+    },
+    {
+        "designation": "TRES ORIX FORTE GELU/20",
+        "date_expiration": "3/31/24",
+        "prix": 16200,
+        "tva": "0"
+    },
+    {
+        "designation": "TRIATEC 1,25 MG COMP B/30",
+        "date_expiration": "6/30/23",
+        "prix": 44900,
+        "tva": "0"
+    },
+    {
+        "designation": "TRIATEC 10MG COMP B/30",
+        "date_expiration": "6/30/23",
+        "prix": 89400,
+        "tva": "0"
+    },
+    {
+        "designation": "TRIATEC 2,5MG CP B/30",
+        "date_expiration": "7/31/23",
+        "prix": 54400,
+        "tva": "0"
+    },
+    {
+        "designation": "TRIPLIXAM 10/2,5/10 CP B/30 MD",
+        "date_expiration": "7/31/22",
+        "prix": 104000,
+        "tva": "0"
+    },
+    {
+        "designation": "TRIPLIXAM 10/2,5/5 CP B/30 MD",
+        "date_expiration": "7/31/22",
+        "prix": 108400,
+        "tva": "0"
+    },
+    {
+        "designation": "TRIPLIXAM 5/1,25/10 CP B/30 MD",
+        "date_expiration": "11/30/22",
+        "prix": 106000,
+        "tva": "0"
+    },
+    {
+        "designation": "TRIPLIXAM 5/1,25/5 CP B/30 MD",
+        "date_expiration": "1/31/23",
+        "prix": 105000,
+        "tva": "0"
+    },
+    {
+        "designation": "TRITAZIDE 10-12,5MG CP B/28",
+        "date_expiration": "2/28/23",
+        "prix": 41200,
+        "tva": "0"
+    },
+    {
+        "designation": "TRITAZIDE 5-25MG CP B/28",
+        "date_expiration": "1/31/24",
+        "prix": 37000,
+        "tva": "0"
+    },
+    {
+        "designation": "TROUSSE DE PREMIER SECOURS",
+        "date_expiration": "0/00/00",
+        "prix": 40000,
+        "tva": "7"
+    },
+    {
+        "designation": "TULLE GRAS LOMA 10X10/10 23315",
+        "date_expiration": "12/31/25",
+        "prix": 12130,
+        "tva": "0"
+    },
+    {
+        "designation": "TURBOVAS 20MG CP B/30",
+        "date_expiration": "6/30/24",
+        "prix": 33250,
+        "tva": "0"
+    },
+    {
+        "designation": "ULCAR 1G SUSP BUV SACH B/30",
+        "date_expiration": "1/31/25",
+        "prix": 39600,
+        "tva": "0"
+    },
+    {
+        "designation": "ULCIZONE 20MG B/14",
+        "date_expiration": "12/31/23",
+        "prix": 5900,
+        "tva": "0"
+    },
+    {
+        "designation": "ULTRA LEVURE 200MG GELU/10 BLI",
+        "date_expiration": "6/30/23",
+        "prix": 21200,
+        "tva": "0"
+    },
+    {
+        "designation": "ULTRA LEVURE 250 SACH B/10",
+        "date_expiration": "5/31/24",
+        "prix": 18000,
+        "tva": "0"
+    },
+    {
+        "designation": "ULTRA LEVURE 50 GELULE FL/20",
+        "date_expiration": "3/31/24",
+        "prix": 10800,
+        "tva": "0"
+    },
+    {
+        "designation": "UPSA VIT C 1G CP EFF B/10",
+        "date_expiration": "1/31/23",
+        "prix": 5800,
+        "tva": "0"
+    },
+    {
+        "designation": "URGO EXTENSIBLE B/48",
+        "date_expiration": "3/31/26",
+        "prix": 12680,
+        "tva": "0"
+    },
+    {
+        "designation": "URGO LAVABLE 10X6CM B/10",
+        "date_expiration": "8/31/25",
+        "prix": 6070,
+        "tva": "0"
+    },
+    {
+        "designation": "URGO WATERPROOF PANS B/20",
+        "date_expiration": "7/31/24",
+        "prix": 8300,
+        "tva": "0"
+    },
+    {
+        "designation": "URGOCOR PANS CORICIDE B/12",
+        "date_expiration": "12/31/23",
+        "prix": 7900,
+        "tva": "0"
+    },
+    {
+        "designation": "URSOLVAN 200MG GELU B/30",
+        "date_expiration": "12/31/23",
+        "prix": 52400,
+        "tva": "0"
+    },
+    {
+        "designation": "UVIMAG B6 AMP BUV 10ML B/20",
+        "date_expiration": "5/31/24",
+        "prix": 22400,
+        "tva": "0"
+    },
+    {
+        "designation": "VALIUM 10MG CP B/25",
+        "date_expiration": "5/31/26",
+        "prix": 19000,
+        "tva": "0"
+    },
+    {
+        "designation": "VALIUM 5MG CP B/25",
+        "date_expiration": "4/30/25",
+        "prix": 16900,
+        "tva": "0"
+    },
+    {
+        "designation": "VALIUM INJ 10MG 2ML 10'S",
+        "date_expiration": "7/31/22",
+        "prix": 7500,
+        "tva": "0"
+    },
+    {
+        "designation": "VALPROATE SOD BGR LP 500MG /30",
+        "date_expiration": "4/30/24",
+        "prix": 36200,
+        "tva": "0"
+    },
+    {
+        "designation": "VASTAREL LM 35MG CP B/60 MD",
+        "date_expiration": "2/29/24",
+        "prix": 46200,
+        "tva": "0"
+    },
+    {
+        "designation": "VEGEBOM BAUME SECOURS T/7,5G",
+        "date_expiration": "1/31/24",
+        "prix": 2650,
+        "tva": "0"
+    },
+    {
+        "designation": "VEGEBOM SAVON PURIFIANT 100G",
+        "date_expiration": "3/31/26",
+        "prix": 7800,
+        "tva": "0"
+    },
+    {
+        "designation": "VEGEBOM SAVON SURGRAS 100G",
+        "date_expiration": "4/30/26",
+        "prix": 8000,
+        "tva": "0"
+    },
+    {
+        "designation": "VEGEBOM SAVON TONIFIANT 100G",
+        "date_expiration": "5/31/26",
+        "prix": 7500,
+        "tva": "7"
+    },
+    {
+        "designation": "VEINAMITOL 3500MG AMP BUV B/10",
+        "date_expiration": "11/30/23",
+        "prix": 35900,
+        "tva": "0"
+    },
+    {
+        "designation": "VEINAMITOL 3500MG SACH B/10",
+        "date_expiration": "6/30/23",
+        "prix": 47460,
+        "tva": "0"
+    },
+    {
+        "designation": "VENTOLINE INH 100MCG 200D",
+        "date_expiration": "3/31/23",
+        "prix": 11200,
+        "tva": "0"
+    },
+    {
+        "designation": "VERMOX 100MG CP B/6",
+        "date_expiration": "12/31/23",
+        "prix": 7100,
+        "tva": "0"
+    },
+    {
+        "designation": "VERMOX 500MG CP ETUI/1",
+        "date_expiration": "2/29/24",
+        "prix": 6300,
+        "tva": "0"
+    },
+    {
+        "designation": "VERSITOL RET 200MG CP B/30",
+        "date_expiration": "1/31/23",
+        "prix": 12200,
+        "tva": "0"
+    },
+    {
+        "designation": "VICKS INHALER TUBE/1ML",
+        "date_expiration": "6/30/23",
+        "prix": 17000,
+        "tva": "0"
+    },
+    {
+        "designation": "VICKS VAPORUB POM POT/100G",
+        "date_expiration": "9/30/24",
+        "prix": 43000,
+        "tva": "0"
+    },
+    {
+        "designation": "VICKS VAPORUB POM POT/50G",
+        "date_expiration": "8/31/24",
+        "prix": 28300,
+        "tva": "0"
+    },
+    {
+        "designation": "VIT A POM OPHT T/10G",
+        "date_expiration": "4/30/24",
+        "prix": 27000,
+        "tva": "0"
+    },
+    {
+        "designation": "VIT B DENK CP B/20 B1+B6",
+        "date_expiration": "3/31/24",
+        "prix": 8850,
+        "tva": "0"
+    },
+    {
+        "designation": "VITASCORBOL 500 S SUC CROQ /24",
+        "date_expiration": "3/31/24",
+        "prix": 12950,
+        "tva": "0"
+    },
+    {
+        "designation": "VITASCORBOL 500 SS CROQ B/12",
+        "date_expiration": "4/30/24",
+        "prix": 7400,
+        "tva": "0"
+    },
+    {
+        "designation": "VOLTARENE 25MG COMP B/30",
+        "date_expiration": "3/31/23",
+        "prix": 10500,
+        "tva": "0"
+    },
+    {
+        "designation": "VOLTARENE 50MG COMP B/30",
+        "date_expiration": "9/30/23",
+        "prix": 18500,
+        "tva": "0"
+    },
+    {
+        "designation": "VOLTARENE EMULGEL 1% T/50G",
+        "date_expiration": "12/31/22",
+        "prix": 11380,
+        "tva": "0"
+    },
+    {
+        "designation": "VOLTINAX DICLO CP B/20",
+        "date_expiration": "2/29/24",
+        "prix": 5200,
+        "tva": "0"
+    },
+    {
+        "designation": "VOLTINAX GEL T/30G",
+        "date_expiration": "3/31/24",
+        "prix": 6650,
+        "tva": "0"
+    },
+    {
+        "designation": "XATRAL 2,5MG CP B/30",
+        "date_expiration": "3/31/23",
+        "prix": 40300,
+        "tva": "0"
+    },
+    {
+        "designation": "XATRAL LP 10MG COMP B/30",
+        "date_expiration": "11/30/23",
+        "prix": 115000,
+        "tva": "0"
+    },
+    {
+        "designation": "XYLOCAINE 2% SS CONS F/20ML",
+        "date_expiration": "3/31/23",
+        "prix": 8900,
+        "tva": "0"
+    },
+    {
+        "designation": "XYZALL 5MG COMP B/14",
+        "date_expiration": "7/31/25",
+        "prix": 12700,
+        "tva": "0"
+    },
+    {
+        "designation": "ZAART 50 CP B/100",
+        "date_expiration": "6/30/24",
+        "prix": 48200,
+        "tva": "0"
+    },
+    {
+        "designation": "ZAART H50/12,5 CP B/30",
+        "date_expiration": "6/30/23",
+        "prix": 21400,
+        "tva": "0"
+    },
+    {
+        "designation": "ZAMUDOL LP 100MG GELU/10 AFR",
+        "date_expiration": "8/31/23",
+        "prix": 28900,
+        "tva": "0"
+    },
+    {
+        "designation": "ZAMUDOL LP 50MG GELU/10 AFR",
+        "date_expiration": "2/29/24",
+        "prix": 14200,
+        "tva": "0"
+    },
+    {
+        "designation": "ZANEXTRA 20/10 CP B/30",
+        "date_expiration": "4/30/23",
+        "prix": 64000,
+        "tva": "0"
+    },
+    {
+        "designation": "ZANEXTRA 20/20MG CP B/30",
+        "date_expiration": "11/30/22",
+        "prix": 62400,
+        "tva": "0"
+    },
+    {
+        "designation": "ZANIDIP 10MG COMP B/30",
+        "date_expiration": "10/31/23",
+        "prix": 59000,
+        "tva": "0"
+    },
+    {
+        "designation": "ZOLEDRO DENK 4MG/5ML INJ B/1",
+        "date_expiration": "6/30/23",
+        "prix": 216000,
+        "tva": "0"
+    },
+    {
+        "designation": "ZOVIRAX 5% CREME DERM T/2G",
+        "date_expiration": "1/31/24",
+        "prix": 21400,
+        "tva": "0"
+    },
+    {
+        "designation": "ZYLTAN 50MG CP B/30",
+        "date_expiration": "1/31/23",
+        "prix": 19200,
+        "tva": "0"
+    },
+    {
+        "designation": "ZYMAFLUOR 0,50MG COMP B/100",
+        "date_expiration": "5/31/22",
+        "prix": 5800,
+        "tva": "0"
+    },
+    {
+        "designation": "ZYRTEC 10MG COMP B/10",
+        "date_expiration": "7/31/25",
+        "prix": 18400,
+        "tva": "0"
+    },
+    {
+        "designation": "ZYRTEC PED 1MG/ML SOL BUV 60ML",
+        "date_expiration": "2/28/23",
+        "prix": 10780,
+        "tva": "0"
+    }
+]

@@ -2,6 +2,10 @@
   "name": "pharmabot-ngx-server",
   "version": "4.0.1",
   "main": "index.js",
+  "engines": {
+    "node": "16.10.0",
+    "npm":"7.24.0"
+  },
   "scripts": {
     "build": "tsc",
     "start": "nodemon ./build/index.js",

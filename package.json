@@ -60,7 +60,7 @@
     "@types/nodemailer": "^6.4.4",
     "chalk": "^4.0.0",
     "ts-node-dev": "^1.0.0-pre.44",
-    "typescript": "^3.9.3"
+    "typescript": "^4.1.3"
   },
   "keywords": [],
   "description": ""
